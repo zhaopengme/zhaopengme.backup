@@ -5,9 +5,7 @@ tags:
   - js工具包
 id: 974
 categories:
-  - web
   - 框架推荐
-  - 资料文档
 date: 2015-03-27 08:54:31
 ---
 

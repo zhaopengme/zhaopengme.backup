@@ -4,9 +4,7 @@ tags:
   - web
 id: 940
 categories:
-  - java
   - web
-  - 网文收藏
 date: 2015-03-15 08:48:47
 ---
 
