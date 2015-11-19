@@ -16,6 +16,8 @@ from : [https://ruby-china.org/topics/19389](https://ruby-china.org/topics/1938
 cache是提高应用性能重要的一个环节，写篇文章总结一下用过的各种对于动态内容的cache。
 文章以Nginx，Rails，Mysql，Redis作为例子，换成其他web服务器，语言，数据库，缓存服务都是类似的。
 以下是3层的示意图，方便后续引用：
+
+<!--more-->
 <pre>                          +-------+
 1                         | Nginx |
                           +-+-+-+-+

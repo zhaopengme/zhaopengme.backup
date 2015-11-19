@@ -6,12 +6,14 @@
 title: 北冥大鸟
 subtitle: 赵鹏的书院
 description:
-author: mikey.zhaopeng
+author: 赵鹏
 language: zh-Hans
 timezone:
 since: 2008
 avatar: /images/avatar.jpg
 
+
+duoshuo_shortname: zhaopengme
 
 # Social links
 social:
@@ -30,9 +32,9 @@ links:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zhaopengme.github.io/
+url: http://zhaopeng.me
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -97,3 +99,11 @@ deploy:
   repo: https://github.com/zhaopengme/zhaopengme.github.io.git
   branch: master
   message: 'message'
+  
+sitemap:
+    path: sitemap.xml
+    
+    
+    
+# Swiftype Search Key
+swiftype_key: KKy7kMLzqcedsP4uzFVg    
