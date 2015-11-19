@@ -9,17 +9,17 @@ description:
 author: mikey.zhaopeng
 language: zh-Hans
 timezone:
-since: 2013
+since: 2008
 avatar: /images/avatar.jpg
 
 
 # Social links
 social:
-  github: https://github.com/your-user-name
-  twitter: https://twitter.com/your-user-name
-  weibo: http://weibo.com/your-user-name
-  douban: http://douban.com/people/your-user-name
-  zhihu: http://www.zhihu.com/people/your-user-name
+  github: https://github.com/zhaopengme
+  #twitter: https://twitter.com/your-user-name
+  weibo: http://weibo.com/joypen
+  #douban: http://douban.com/people/your-user-name
+  #zhihu: http://www.zhihu.com/people/your-user-name
 
 # title, chinese available
 links_title: Links
@@ -97,3 +97,6 @@ deploy:
   repo: https://github.com/zhaopengme/zhaopengme.github.io.git
   branch: master
   message: 'message'
+
+sitemap:
+    path: sitemap.xml
