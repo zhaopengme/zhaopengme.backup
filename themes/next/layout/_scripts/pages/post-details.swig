@@ -149,7 +149,9 @@
     var $tocContent = $('.post-toc-content');
     if (isDesktop() && CONFIG.sidebar === 'post') {
       if ($tocContent.length > 0 && $tocContent.html().trim().length > 0) {
-        displaySidebar();
+        setTimeout(function(){
+          displaySidebar();
+        },2000);
       }
     }
   });
