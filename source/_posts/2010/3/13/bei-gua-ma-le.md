@@ -1,7 +1,6 @@
 title: 被挂马了
 id: 277
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-13 03:58:49
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 小步接着走
 id: 173
-categories:
-  - java
+categories: java
 date: 2011-07-31 03:37:11
 tags:
 ---

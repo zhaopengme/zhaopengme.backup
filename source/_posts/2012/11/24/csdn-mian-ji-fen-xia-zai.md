@@ -1,7 +1,6 @@
 title: CSDN免积分下载
 id: 31
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-11-24 13:02:11
 tags:
 ---

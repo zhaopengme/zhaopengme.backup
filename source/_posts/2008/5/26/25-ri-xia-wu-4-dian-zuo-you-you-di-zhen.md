@@ -1,7 +1,5 @@
 title: 25日下午4点左右又地震
-id: 680
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-05-26 14:55:00
 tags:
 ---

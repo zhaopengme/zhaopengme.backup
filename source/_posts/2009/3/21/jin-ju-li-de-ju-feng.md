@@ -1,7 +1,6 @@
 title: 近距离的飓风
 id: 484
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-21 12:55:00
 tags:
 ---

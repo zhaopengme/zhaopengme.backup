@@ -1,7 +1,6 @@
 title: 今天9月10，教师节了，先祝老师们教师节快乐！
 id: 632
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-11 01:01:00
 tags:
 ---

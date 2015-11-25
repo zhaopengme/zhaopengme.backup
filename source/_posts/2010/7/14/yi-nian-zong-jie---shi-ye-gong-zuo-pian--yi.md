@@ -1,7 +1,6 @@
 title: '一年总结-事业工作篇[一]'
 id: 247
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2010-07-14 16:09:08
 tags:
 ---

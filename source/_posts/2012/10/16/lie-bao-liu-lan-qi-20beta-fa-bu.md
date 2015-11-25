@@ -1,7 +1,6 @@
 title: 猎豹浏览器2.0beta发布
 id: 54
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-16 11:48:36
 tags:
 ---

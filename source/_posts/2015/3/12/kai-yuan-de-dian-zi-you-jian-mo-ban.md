@@ -3,7 +3,7 @@ tags:
   - 模板
 id: 932
 categories:
-  - web
+
 date: 2015-03-12 08:46:14
 ---
 

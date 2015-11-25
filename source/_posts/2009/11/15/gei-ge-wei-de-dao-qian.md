@@ -1,7 +1,6 @@
 title: 给各位的道歉
 id: 333
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-11-15 18:02:05
 tags:
 ---

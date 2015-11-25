@@ -1,12 +1,11 @@
 title: Hibernate 参数设置一览表
 id: 112
-categories:
-  - java
+categories: java
 date: 2012-03-05 12:55:00
 tags:
 ---
 
-Hibernate 参数设置一览表，相当全的啊！推荐hibernate使用者必备！ 
+Hibernate 参数设置一览表，相当全的啊！推荐hibernate使用者必备！
  属性名 用途 hibernate.dialect 一个Hibernate Dialect类名允许Hibernate针对特定的关系数据库生成优化的SQL.<span>取值</span> full.classname.of.Dialect hibernate.show_sql 输出所有SQL语句到控制台. 有一个另外的选择是把org.hibernate.SQL这个log category设为debug。<span>eg.</span> true | false hibernate.format_sql 在log和console中打印出更漂亮的SQL。<span>取值</span> true | false hibernate.default_schema 在生成的SQL中, 将给定的schema/tablespace附加于非全限定名的表名上.<span>取值</span> SCHEMA_NAME hibernate.default_catalog 在生成的SQL中, 将给定的catalog附加于非全限定名的表名上.<span>取值</span> CATALOG_NAME hibernate.session_factory_name SessionFactory创建后，将自动使用这个名字绑定到JNDI中.<span>取值</span> jndi/composite/name hibernate.max_fetch_depth 为单向关联(一对一, 多对一)的外连接抓取（outer join fetch）树设置最大深度. 值为0意味着将关闭默认的外连接抓取.<span>取值</span> 建议在0到3之间取值 hibernate.default_batch_fetch_size 为Hibernate关联的批量抓取设置默认数量.<span>取值</span> 建议的取值为4, 8, 和16 hibernate.default_entity_mode 为由这个SessionFactory打开的所有Session指定默认的实体表现模式.<span>取值</span> dynamic-map, dom4j, pojo hibernate.order_updates 强制Hibernate按照被更新数据的主键，为SQL更新排序。这么做将减少在高并发系统中事务的死锁。<span>取值</span> true | false hibernate.generate_statistics 如果开启, Hibernate将收集有助于性能调节的统计数据.<span>取值</span> true | false hibernate.use_identifer_rollback 如果开启, 在对象被删除时生成的标识属性将被重设为默认值.<span>取值</span> true | false hibernate.use_sql_comments 如果开启, Hibernate将在SQL中生成有助于调试的注释信息, 默认值为false.<span>取值</span> true | false
 
 **表 3.4.&nbsp; Hibernate JDBC和连接(connection)属性 **
@@ -21,9 +20,9 @@ Hibernate 参数设置一览表，相当全的啊！推荐hibernate使用者必�
 **表 3.7.&nbsp; 其他属性 **
  属性名 用途 hibernate.current_session_context_class 为&quot;当前&quot; Session指定一个(自定义的)策略。<span>eg.</span> jta | thread | custom.Class hibernate.query.factory_class 选择HQL解析器的实现.<span>取值</span> org.hibernate.hql.ast.ASTQueryTranslatorFactory or org.hibernate.hql.classic.ClassicQueryTranslatorFactory hibernate.query.substitutions 将Hibernate查询中的符号映射到SQL查询中的符号 (符号可能是函数名或常量名字).<span>取值</span> hqlLiteral=SQL_LITERAL, hqlFunction=SQLFUNC hibernate.hbm2ddl.auto 在SessionFactory创建时，自动检查数据库结构，或者将数据库schema的DDL导出到数据库. 使用 create-drop时,在显式关闭SessionFactory时，将drop掉数据库schema.<span>取值</span> validate | update | create | create-drop hibernate.cglib.use_reflection_optimizer 开启CGLIB来替代运行时反射机制(系统级属性). 反射机制有时在除错时比较有用. 注意即使关闭这个优化, Hibernate还是需要CGLIB. 你不能在hibernate.cfg.xml中设置此属性.<span>取值</span> true | false
 
-### 3.4.1.&nbsp; SQL方言 
+### 3.4.1.&nbsp; SQL方言
 
-你应当总是为你的数据库将hibernate.dialect属性设置成正确的 org.hibernate.dialect.Dialect子类. 如果你指定一种方言, Hibernate将为上面列出的一些属性使用合理的默认值, 为你省去了手工指定它们的功夫. 
+你应当总是为你的数据库将hibernate.dialect属性设置成正确的 org.hibernate.dialect.Dialect子类. 如果你指定一种方言, Hibernate将为上面列出的一些属性使用合理的默认值, 为你省去了手工指定它们的功夫.
 
 **表 3.8.&nbsp; Hibernate SQL方言 (hibernate.dialect) **
  RDBMS 方言 DB2 org.hibernate.dialect.DB2Dialect DB2 AS/400 org.hibernate.dialect.DB2400Dialect DB2 OS390 org.hibernate.dialect.DB2390Dialect PostgreSQL org.hibernate.dialect.PostgreSQLDialect MySQL org.hibernate.dialect.MySQLDialect MySQL with InnoDB org.hibernate.dialect.MySQLInnoDBDialect MySQL with MyISAM org.hibernate.dialect.MySQLMyISAMDialect Oracle (any version) org.hibernate.dialect.OracleDialect Oracle 9i/10g org.hibernate.dialect.Oracle9Dialect Sybase org.hibernate.dialect.SybaseDialect Sybase Anywhere org.hibernate.dialect.SybaseAnywhereDialect Microsoft SQL Server org.hibernate.dialect.SQLServerDialect SAP DB org.hibernate.dialect.SAPDBDialect Informix org.hibernate.dialect.InformixDialect HypersonicSQL org.hibernate.dialect.HSQLDialect Ingres org.hibernate.dialect.IngresDialect Progress org.hibernate.dialect.ProgressDialect Mckoi SQL org.hibernate.dialect.MckoiDialect Interbase org.hibernate.dialect.InterbaseDialect Pointbase org.hibernate.dialect.PointbaseDialect FrontBase org.hibernate.dialect.FrontbaseDialect Firebird org.hibernate.dialect.FirebirdDialect

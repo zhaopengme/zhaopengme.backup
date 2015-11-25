@@ -1,7 +1,5 @@
 title: 别人的痛苦就是你的欢乐吗？
-id: 669
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-18 14:11:00
 tags:
 ---

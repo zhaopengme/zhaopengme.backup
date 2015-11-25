@@ -1,7 +1,6 @@
 title: cn域名的大起大落
 id: 300
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-01-23 05:23:10
 tags:
 ---

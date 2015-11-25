@@ -1,7 +1,7 @@
 title: SMART的实现
 id: 437
 categories:
-  - web
+
 date: 2009-05-14 23:19:26
 tags:
 ---

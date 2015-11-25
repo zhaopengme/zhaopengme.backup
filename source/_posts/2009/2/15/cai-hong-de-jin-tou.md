@@ -1,7 +1,6 @@
 title: 彩虹的尽头
 id: 502
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-15 07:49:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 这个季节
 id: 566
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:29:00
 tags:
 ---

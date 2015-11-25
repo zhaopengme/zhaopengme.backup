@@ -1,7 +1,6 @@
 title: 世界之窗3.0精彩发布
 id: 543
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-24 05:23:00
 tags:
 ---

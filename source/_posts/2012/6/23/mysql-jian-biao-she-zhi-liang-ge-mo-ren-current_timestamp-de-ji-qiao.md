@@ -1,7 +1,6 @@
 title: mysql建表设置两个默认CURRENT_TIMESTAMP的技巧
 id: 97
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-06-23 14:39:42
 tags:
 ---

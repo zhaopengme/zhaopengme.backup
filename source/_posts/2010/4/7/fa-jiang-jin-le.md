@@ -1,7 +1,6 @@
 title: 发奖金了
 id: 263
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-04-07 21:48:29
 tags:
 ---

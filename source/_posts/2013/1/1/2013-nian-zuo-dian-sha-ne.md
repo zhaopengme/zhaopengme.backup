@@ -1,7 +1,6 @@
 title: 2013年做点啥呢
 id: 21
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-01-01 18:46:41
 tags:
 ---

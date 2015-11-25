@@ -1,7 +1,6 @@
 title: why？为什么？
 id: 558
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-01 10:45:00
 tags:
 ---

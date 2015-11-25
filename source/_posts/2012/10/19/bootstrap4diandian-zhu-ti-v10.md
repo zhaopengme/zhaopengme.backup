@@ -1,7 +1,7 @@
 title: bootstrap4diandian主题v1.0
 id: 49
 categories:
-  - web
+
 date: 2012-10-19 01:00:06
 tags:
 ---

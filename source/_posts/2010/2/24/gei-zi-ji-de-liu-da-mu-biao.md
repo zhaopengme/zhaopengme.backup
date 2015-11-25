@@ -1,7 +1,6 @@
 title: 给自己的六大目标
 id: 290
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-02-24 03:02:41
 tags:
 ---

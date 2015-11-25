@@ -1,7 +1,5 @@
 title: 百度原来有这么多的新玩意-为盲人设计的搜索引擎
-id: 688
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-05-01 13:36:00
 tags:
 ---

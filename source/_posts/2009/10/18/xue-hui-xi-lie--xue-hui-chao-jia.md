@@ -1,7 +1,6 @@
 title: '[学会系列]学会吵架'
 id: 339
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-18 19:26:31
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 孔兄结婚，祝福一下啊！
 id: 187
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-04-04 14:20:09
 tags:
 ---

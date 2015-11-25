@@ -1,7 +1,5 @@
 title: 通过网易的在线捐款捐了10元钱
-id: 684
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-05-16 04:33:00
 tags:
 ---

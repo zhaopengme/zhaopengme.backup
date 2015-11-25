@@ -1,7 +1,6 @@
 title: IE8正式版发布了
 id: 485
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-21 00:04:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: ubuntu10.4安装vmware server2笔记
 id: 234
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-05 13:29:37
 tags:
 ---

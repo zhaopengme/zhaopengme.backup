@@ -1,7 +1,6 @@
 title: 西安的天和南京的天
 id: 19
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-01-02 17:04:39
 tags:
 ---

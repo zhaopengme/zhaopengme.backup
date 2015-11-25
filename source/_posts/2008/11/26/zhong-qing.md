@@ -1,7 +1,6 @@
 title: 钟情
 id: 564
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:32:00
 tags:
 ---

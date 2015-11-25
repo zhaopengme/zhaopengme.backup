@@ -1,7 +1,6 @@
 title: 'oracle时间的加减[oracle]'
 id: 265
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-26 00:18:43
 tags:
 ---

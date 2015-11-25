@@ -1,7 +1,5 @@
 title: google 推出ipv6
-id: 683
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-05-18 02:21:00
 tags:
 ---

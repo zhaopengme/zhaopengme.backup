@@ -1,7 +1,6 @@
 title: 越狱的结束
 id: 422
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-22 11:21:41
 tags:
 ---

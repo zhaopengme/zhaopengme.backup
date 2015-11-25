@@ -1,7 +1,6 @@
 title: 身体发肤，受之父母
 id: 772
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-05-15 08:50:21
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 西安实习第三日
 id: 622
-categories:
-  - java
+categories: java
 date: 2008-09-21 00:58:00
 tags:
 ---

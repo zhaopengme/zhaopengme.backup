@@ -1,7 +1,6 @@
 title: 榆林学院新版网站终于出世了
 id: 635
-categories:
-  - java
+categories: java
 date: 2008-09-08 15:08:00
 tags:
 ---

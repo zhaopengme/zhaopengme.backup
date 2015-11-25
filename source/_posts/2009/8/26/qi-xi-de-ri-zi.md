@@ -1,7 +1,6 @@
 title: 七夕的日子
 id: 363
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-26 03:52:53
 tags:
 ---

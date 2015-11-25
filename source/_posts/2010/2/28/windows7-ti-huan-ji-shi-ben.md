@@ -1,7 +1,6 @@
 title: windows7替换记事本
 id: 287
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-02-28 09:22:33
 tags:
 ---

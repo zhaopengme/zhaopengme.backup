@@ -1,7 +1,6 @@
 title: 又被小人了一次
 id: 251
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-06-19 14:31:03
 tags:
 ---

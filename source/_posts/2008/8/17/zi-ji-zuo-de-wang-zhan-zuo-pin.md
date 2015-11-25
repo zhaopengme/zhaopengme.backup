@@ -1,7 +1,5 @@
 title: 自己做的网站作品
-id: 652
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-17 13:03:00
 tags:
 ---

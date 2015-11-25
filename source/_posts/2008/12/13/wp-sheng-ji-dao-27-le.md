@@ -1,7 +1,6 @@
 title: wp升级到2.7了
 id: 550
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-13 12:14:00
 tags:
 ---

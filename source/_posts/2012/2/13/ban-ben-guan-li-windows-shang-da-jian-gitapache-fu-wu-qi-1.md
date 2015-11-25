@@ -1,7 +1,6 @@
 title: 【版本管理】windows上搭建git+apache服务器 1
 id: 124
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-02-13 12:43:12
 tags:
 ---
@@ -20,9 +19,9 @@ tortoisegit&nbsp; [http://code.google.com/p/tortoisegit/downloads/list](http://c
 
 操作步骤
 
-1.安装msysGit 
+1.安装msysGit
 
-&nbsp;&nbsp;&nbsp; 我安装在D:serverGit 
+&nbsp;&nbsp;&nbsp; 我安装在D:serverGit
 </br>&nbsp;&nbsp;&nbsp; 注：图中请选择**Run git from the Windows Command prompt**
 
 &nbsp;&nbsp;&nbsp; ![](http://m2.img.libdd.com/farm4/2012/0821/18/2205114A5FD9DD7C8AF1E5FDF1294EF812658D5EF698_363_277.JPEG)</img>

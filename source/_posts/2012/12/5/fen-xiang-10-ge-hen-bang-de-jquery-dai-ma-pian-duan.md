@@ -1,7 +1,6 @@
 title: 分享10个很棒的jQuery代码片段
 id: 28
-categories:
-  - java
+categories: java
 date: 2012-12-05 15:00:01
 tags:
 ---

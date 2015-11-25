@@ -2,8 +2,7 @@ title: BBC与中国合拍经典自然纪录片巅峰之作《美丽中国》
 tags:
   - Englist
 id: 965
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2015-03-24 08:53:46
 ---
 

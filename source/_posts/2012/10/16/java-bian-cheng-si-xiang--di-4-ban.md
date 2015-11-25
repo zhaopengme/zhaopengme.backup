@@ -1,7 +1,6 @@
 title: Java编程思想(第4版)
 id: 53
-categories:
-  - java
+categories: java
 date: 2012-10-16 15:00:05
 tags:
 ---

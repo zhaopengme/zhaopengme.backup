@@ -1,7 +1,6 @@
 title: 博客wordpres转移typecho
 id: 211
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-12-02 15:39:59
 tags:
 ---

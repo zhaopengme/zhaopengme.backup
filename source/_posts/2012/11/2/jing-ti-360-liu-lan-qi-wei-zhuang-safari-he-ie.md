@@ -1,7 +1,6 @@
 title: 警惕360浏览器伪装safari和IE
 id: 38
-categories:
-  - java
+categories: java
 date: 2012-11-02 12:49:13
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 流水三十
 id: 584
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:05:00
 tags:
 ---

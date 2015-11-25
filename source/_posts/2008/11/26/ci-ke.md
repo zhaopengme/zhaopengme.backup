@@ -1,7 +1,6 @@
 title: 此刻
 id: 591
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:48:00
 tags:
 ---

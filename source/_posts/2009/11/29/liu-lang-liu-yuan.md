@@ -1,7 +1,6 @@
 title: 流浪留园
 id: 324
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-11-29 11:26:46
 tags:
 ---

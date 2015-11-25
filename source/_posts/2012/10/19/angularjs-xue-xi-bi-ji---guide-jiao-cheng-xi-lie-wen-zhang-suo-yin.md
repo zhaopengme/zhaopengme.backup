@@ -1,7 +1,7 @@
 title: AngularJs学习笔记--Guide教程系列文章索引
 id: 48
 categories:
-  - web
+
 date: 2012-10-19 15:00:11
 tags:
 ---

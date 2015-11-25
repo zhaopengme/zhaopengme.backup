@@ -1,7 +1,5 @@
 title: gmail好东西又有了新变化了
-id: 682
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-05-19 10:37:00
 tags:
 ---

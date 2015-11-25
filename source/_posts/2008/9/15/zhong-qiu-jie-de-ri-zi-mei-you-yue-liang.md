@@ -1,7 +1,6 @@
 title: 中秋节的日子没有月亮
 id: 629
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-15 14:05:00
 tags:
 ---

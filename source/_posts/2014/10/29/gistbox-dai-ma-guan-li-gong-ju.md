@@ -3,8 +3,7 @@ tags:
   - git
   - github
 id: 1028
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2014-10-29 06:20:55
 ---
 

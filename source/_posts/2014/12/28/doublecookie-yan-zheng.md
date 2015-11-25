@@ -1,9 +1,7 @@
 title: double cookie验证
 tags:
   - 安全
-id: 1019
-categories:
-  - 资料文档
+categories: 资料文档
 date: 2014-12-28 19:53:26
 ---
 

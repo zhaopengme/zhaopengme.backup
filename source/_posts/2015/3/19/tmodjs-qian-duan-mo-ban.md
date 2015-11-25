@@ -3,9 +3,8 @@ tags:
   - js
   - js工具包
 id: 950
-categories:
-  - web
-  - 框架推荐
+categories: 软件工具
+
 date: 2015-03-19 08:51:57
 ---
 

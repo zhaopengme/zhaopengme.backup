@@ -1,7 +1,6 @@
 title: 在莎莉花园边上(Down By The Salley Garden)
 id: 314
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-18 17:37:09
 tags:
 ---

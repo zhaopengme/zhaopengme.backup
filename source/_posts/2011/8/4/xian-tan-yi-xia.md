@@ -1,7 +1,6 @@
 title: 闲谈一下
 id: 172
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-08-04 01:54:12
 tags:
 ---

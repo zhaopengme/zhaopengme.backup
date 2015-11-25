@@ -1,7 +1,6 @@
 title: 半夜醒来，心痛的感觉.
 id: 252
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-06-18 10:15:47
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 打起手鼓唱起歌
 id: 394
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-05 02:02:58
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 榆林学院的校庆挺不错的
 id: 626
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-17 03:03:00
 tags:
 ---

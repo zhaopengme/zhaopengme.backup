@@ -1,7 +1,6 @@
 title: 终于搞定了相册
 id: 532
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-04 15:38:00
 tags:
 ---

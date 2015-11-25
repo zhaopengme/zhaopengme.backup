@@ -1,7 +1,6 @@
 title: 2009年的第一场雪
 id: 497
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-27 00:02:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 华为内耗问题浅析：十大文化成公司绊脚石
 id: 194
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-22 13:30:41
 tags:
 ---

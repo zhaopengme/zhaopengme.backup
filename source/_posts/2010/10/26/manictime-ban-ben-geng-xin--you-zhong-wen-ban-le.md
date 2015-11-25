@@ -1,7 +1,6 @@
 title: ManicTime版本更新，有中文版了
 id: 222
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-10-26 13:07:51
 tags:
 ---

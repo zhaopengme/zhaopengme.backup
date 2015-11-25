@@ -1,7 +1,6 @@
 title: 送给陆逸岚
 id: 341
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-17 02:25:44
 tags:
 ---

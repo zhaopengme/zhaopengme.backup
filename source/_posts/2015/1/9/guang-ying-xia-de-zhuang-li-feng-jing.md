@@ -4,9 +4,7 @@ tags:
   - 摄影
   - 美图
 id: 987
-categories:
-  - 摄影
-  - 网文收藏
+categories: 摄影
 date: 2015-01-09 06:13:34
 ---
 

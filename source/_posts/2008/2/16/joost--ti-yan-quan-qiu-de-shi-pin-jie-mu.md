@@ -1,7 +1,5 @@
 title: Joost-体验全球的视频节目
-id: 713
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-16 02:38:00
 tags:
 ---

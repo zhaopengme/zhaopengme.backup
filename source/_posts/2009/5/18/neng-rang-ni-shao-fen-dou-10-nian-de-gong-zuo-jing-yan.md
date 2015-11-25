@@ -1,7 +1,6 @@
 title: 能让你少奋斗10年的工作经验
 id: 430
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-18 00:00:54
 tags:
 ---

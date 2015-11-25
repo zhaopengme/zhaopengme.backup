@@ -1,7 +1,6 @@
 title: chrome浏览器的世界之窗的皮肤
 id: 99
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-28 22:33:30
 tags:
 ---

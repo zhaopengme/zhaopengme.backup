@@ -1,7 +1,6 @@
 title: 世界睡眠日
 id: 272
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-21 04:02:56
 tags:
 ---

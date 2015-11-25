@@ -1,7 +1,5 @@
 title: 用FinalData我们来恢复数据
-id: 690
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-04-29 13:21:00
 tags:
 ---

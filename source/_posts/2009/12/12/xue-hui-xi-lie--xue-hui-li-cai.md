@@ -1,7 +1,6 @@
 title: '[学会系列]学会理财'
 id: 317
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-12 17:10:29
 tags:
 ---

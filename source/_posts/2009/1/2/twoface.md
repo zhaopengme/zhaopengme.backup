@@ -1,7 +1,6 @@
 title: two face
 id: 534
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-02 14:55:00
 tags:
 ---

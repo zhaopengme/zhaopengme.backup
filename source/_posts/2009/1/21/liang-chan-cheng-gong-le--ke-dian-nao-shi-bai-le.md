@@ -1,7 +1,6 @@
 title: 量产成功了，可电脑失败了
 id: 517
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-01-21 08:54:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 无奈与怎么办
 id: 212
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-11-21 01:31:12
 tags:
 ---

@@ -1,7 +1,6 @@
 title: wordpress批量修改文章别名
 id: 213
-categories:
-  - java
+categories: java
 date: 2010-11-14 00:19:14
 tags:
 ---

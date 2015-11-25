@@ -1,7 +1,6 @@
 title: jremind V0.1.3.0添加透明
 id: 443
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-11 03:21:00
 tags:
 ---

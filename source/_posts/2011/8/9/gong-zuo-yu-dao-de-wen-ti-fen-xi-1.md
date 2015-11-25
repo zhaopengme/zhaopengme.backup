@@ -1,7 +1,6 @@
 title: 工作遇到的问题分析【1】
 id: 170
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-08-09 22:29:48
 tags:
 ---

@@ -1,14 +1,13 @@
 title: '[软件]notepad++6发布'
 id: 100
-categories:
-  - java
+categories: java
 date: 2012-03-26 13:12:49
 tags:
 ---
 
 Notepad++是我电脑必备经常使用的软件，在新版中还加入了Document Map功能，就是文档的缩略图，以后做跳转方面的多了，和sublimetext一样，最近也在研究sublimetext的使用。
 
-Notepad++ 6 发布了，可通过下面地址下载： 
+Notepad++ 6 发布了，可通过下面地址下载：
 </br>[http://notepad-plus-plus.org/download/v6.0.html](http://notepad-plus-plus.org/download/v6.0.html)
 </br>在 6 版本中，主要包含如下改进：
 

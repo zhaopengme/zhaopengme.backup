@@ -1,7 +1,6 @@
 title: 疯狂的代价
 id: 325
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2009-11-28 02:03:02
 tags:
 ---

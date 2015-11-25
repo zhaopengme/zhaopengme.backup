@@ -1,7 +1,6 @@
 title: 幼稚的主题
 id: 525
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-11 08:10:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 内容的原创和转载
 id: 429
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-18 00:06:51
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 2011年初的记事
 id: 205
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-01 00:38:23
 tags:
 ---

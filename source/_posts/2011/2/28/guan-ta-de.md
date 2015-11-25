@@ -1,7 +1,6 @@
 title: 管他的
 id: 208
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-02-28 23:11:36
 tags:
 ---

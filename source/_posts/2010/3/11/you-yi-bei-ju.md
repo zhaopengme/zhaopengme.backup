@@ -1,7 +1,6 @@
 title: 又一杯具
 id: 280
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-11 19:16:47
 tags:
 ---

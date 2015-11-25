@@ -1,7 +1,6 @@
 title: 为偶自己的
 id: 276
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-14 03:27:27
 tags:
 ---

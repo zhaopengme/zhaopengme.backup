@@ -1,7 +1,5 @@
 title: 朋友相聚
-id: 666
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-23 14:55:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 结果，是需要一个从无到有的过程的
 id: 245
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-07-20 12:37:26
 tags:
 ---

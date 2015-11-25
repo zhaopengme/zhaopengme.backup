@@ -1,7 +1,6 @@
 title: 倒霉真遇到了吗？
 id: 307
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-12-26 00:48:26
 tags:
 ---

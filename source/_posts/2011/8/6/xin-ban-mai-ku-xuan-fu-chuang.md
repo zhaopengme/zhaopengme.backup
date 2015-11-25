@@ -1,7 +1,7 @@
 title: 新版麦库悬浮窗
 id: 171
 categories:
-  - web
+
 date: 2011-08-06 17:46:36
 tags:
 ---

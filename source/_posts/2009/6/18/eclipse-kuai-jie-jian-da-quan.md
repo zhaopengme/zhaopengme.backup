@@ -1,7 +1,6 @@
 title: Eclipse快捷键大全
 id: 405
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-18 12:45:13
 tags:
 ---

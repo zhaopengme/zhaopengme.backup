@@ -1,7 +1,6 @@
 title: 大话版MTV光棍很酷
 id: 162
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-11-08 11:22:28
 tags:
 ---

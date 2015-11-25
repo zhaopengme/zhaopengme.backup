@@ -2,10 +2,7 @@ title: 总结 web 应用中常用的各种 cache
 tags:
   - 架构
   - 缓存
-id: 985
-categories:
-  - 网文收藏
-  - 资料文档
+categories: 资料文档
 date: 2015-03-30 08:55:15
 ---
 

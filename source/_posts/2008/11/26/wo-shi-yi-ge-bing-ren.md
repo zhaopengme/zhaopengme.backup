@@ -1,7 +1,6 @@
 title: 我是一个病人
 id: 579
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:09:00
 tags:
 ---

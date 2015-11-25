@@ -1,7 +1,6 @@
 title: 添加右键“用Sublime打开”
 id: 92
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-07-05 00:28:32
 tags:
 ---

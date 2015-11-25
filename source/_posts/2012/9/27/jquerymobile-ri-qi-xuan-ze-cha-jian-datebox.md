@@ -1,7 +1,6 @@
 title: jQueryMobile日期选择插件DateBox
 id: 74
-categories:
-  - java
+categories: java
 date: 2012-09-27 19:22:00
 tags:
 ---

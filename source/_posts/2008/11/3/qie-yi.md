@@ -1,7 +1,6 @@
 title: 惬意
 id: 603
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-03 10:13:00
 tags:
 ---

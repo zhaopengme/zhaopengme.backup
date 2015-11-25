@@ -1,7 +1,6 @@
 title: 新浪SAE的几个JAVA邀请码
 id: 62
-categories:
-  - java
+categories: java
 date: 2012-10-12 23:59:52
 tags:
 ---

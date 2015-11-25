@@ -1,7 +1,6 @@
 title: 做个安全的裸奔机
 id: 508
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-02-04 16:55:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 我的小熊杯子
 id: 399
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-30 13:05:55
 tags:
 ---

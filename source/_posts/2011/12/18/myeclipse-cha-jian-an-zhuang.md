@@ -1,12 +1,11 @@
 title: myeclipse插件安装
 id: 137
-categories:
-  - java
+categories: java
 date: 2011-12-18 21:36:07
 tags:
 ---
 
-myeclipse7以前都是可以很容易通过link方式来安装eclipse的插件的，自从myeclipse7以后，myeclipse修改的安装配置的方式，直接用link方式安装插件很麻烦，这里找到一个用link方式的插件配置代码的生成器，用这个安装，简单的一米，推荐必备软件。 
+myeclipse7以前都是可以很容易通过link方式来安装eclipse的插件的，自从myeclipse7以后，myeclipse修改的安装配置的方式，直接用link方式安装插件很麻烦，这里找到一个用link方式的插件配置代码的生成器，用这个安装，简单的一米，推荐必备软件。
 
 步骤如下
 </br>1.比如给myeclipse10安装hibernate的插件，我的hibernate插件之前是eclipse3.2的版本安装的里面。
@@ -15,7 +14,7 @@ myeclipse7以前都是可以很容易通过link方式来安装eclipse的插件�
 
 hibernate插件目录如下 &nbsp;&nbsp;&nbsp;
 
-D:toolsMyEclipse 10MyEclipse 10mypluginshibernatepluginscom.hudson.hibernatesynchronizer_3.1.9_lclgv1.0 
+D:toolsMyEclipse 10MyEclipse 10mypluginshibernatepluginscom.hudson.hibernatesynchronizer_3.1.9_lclgv1.0
 
 2.使用MyEclipse插件配置代码生成器，修改里面的路径
 <pre></pre><pre config="brush:java;toolbar:false;">import java.io.File;

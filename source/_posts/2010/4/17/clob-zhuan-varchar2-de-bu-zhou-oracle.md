@@ -1,7 +1,6 @@
 title: 'clob转varchar2的步骤[oracle]'
 id: 258
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-04-17 19:08:02
 tags:
 ---

@@ -1,7 +1,6 @@
 title: qq邮箱皮肤又增几款
 id: 460
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-24 22:26:00
 tags:
 ---

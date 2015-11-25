@@ -1,7 +1,7 @@
 title: dapeng 2012主题
 id: 139
 categories:
-  - web
+
 date: 2011-12-12 00:39:40
 tags:
 ---

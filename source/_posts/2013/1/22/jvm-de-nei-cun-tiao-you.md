@@ -1,7 +1,6 @@
 title: jvm的内存调优
 id: 14
-categories:
-  - java
+categories: java
 date: 2013-01-22 22:15:03
 tags:
 ---
@@ -87,7 +86,7 @@ PermGen space的全称是Permanent Generation space,是指内存的永久保存�
 
 catalina.sh下为：
 </br>Java代码
-</br>JAVA_OPTS=”$JAVA_OPTS -server -XX:PermSize=128M -XX:MaxPermSize=512m” 
+</br>JAVA_OPTS=”$JAVA_OPTS -server -XX:PermSize=128M -XX:MaxPermSize=512m”
 
 JAVA_OPTS=”$JAVA_OPTS -server -XX:PermSize=128M -XX:MaxPermSize=512m”
 
@@ -102,7 +101,7 @@ JAVA_OPTS=”$JAVA_OPTS -server -XX:PermSize=128M -XX:MaxPermSize=512m”
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;默认空余堆内存小于40%时，JVM就会增大堆直到-Xmx的最大限制，可以由-XX:MinHeapFreeRatio=指定。
 </br>默认空余堆内存大于70%时，JVM会减少堆直到-Xms的最小限制，可以由-XX:MaxHeapFreeRatio=指定。
 
-服务器一般设置-Xms、-Xmx相等以避免在每次GC 后调整堆的大小，所以上面的两个参数没啥用。 
+服务器一般设置-Xms、-Xmx相等以避免在每次GC 后调整堆的大小，所以上面的两个参数没啥用。
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Xmn 设置young generation的heap大小
 
@@ -123,7 +122,7 @@ JAVA_OPTS=”$JAVA_OPTS -server -XX:PermSize=128M -XX:MaxPermSize=512m”
 
 jstat -gcutil pid 1000 20
 
- S0 &nbsp;&nbsp;&nbsp;&nbsp;S1 &nbsp;&nbsp;&nbsp;&nbsp;E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P &nbsp;&nbsp;&nbsp;&nbsp;YGC &nbsp;&nbsp;&nbsp;&nbsp;YGCT &nbsp;&nbsp;&nbsp;FGC &nbsp;&nbsp;&nbsp;FGCT &nbsp;&nbsp;&nbsp;&nbsp;GCT 
+ S0 &nbsp;&nbsp;&nbsp;&nbsp;S1 &nbsp;&nbsp;&nbsp;&nbsp;E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P &nbsp;&nbsp;&nbsp;&nbsp;YGC &nbsp;&nbsp;&nbsp;&nbsp;YGCT &nbsp;&nbsp;&nbsp;FGC &nbsp;&nbsp;&nbsp;FGCT &nbsp;&nbsp;&nbsp;&nbsp;GCT
 </br> &nbsp;0.00 &nbsp;&nbsp;0.00 &nbsp;99.99 &nbsp;82.51 &nbsp;53.11 &nbsp;&nbsp;2409 &nbsp;&nbsp;&nbsp;1.205 10117 7250.393 7251.598
 </br> &nbsp;0.00 &nbsp;&nbsp;0.00 &nbsp;83.42 &nbsp;82.55 &nbsp;53.10 &nbsp;&nbsp;2409 &nbsp;&nbsp;&nbsp;1.205 10118 7252.650 7253.855
 </br> &nbsp;0.00 &nbsp;&nbsp;0.00 &nbsp;56.06 &nbsp;82.46 &nbsp;53.10 &nbsp;&nbsp;2410 &nbsp;&nbsp;&nbsp;1.205 10120 7254.467 7255.672
@@ -224,19 +223,19 @@ Heap Usage:
 jstat
 </br>jstat是vm的状态监控工具，监控的内容有类加载、运行时编译及GC。
 
-使用时，需加上查看进程的进程id，和所选参数。以下详细介绍各个参数的意义。 
-</br> &nbsp;&nbsp;&nbsp;jstat -class pid:显示加载class的数量，及所占空间等信息。 
-</br> &nbsp;&nbsp;&nbsp;jstat -compiler pid:显示VM实时编译的数量等信息。 
-</br> &nbsp;&nbsp;&nbsp;jstat -gc pid:可以显示gc的信息，查看gc的次数，及时间。其中最后五项，分别是young gc的次数，young gc的时间，full gc的次数，full gc的时间，gc的总时间。 
-</br> &nbsp;&nbsp;&nbsp;jstat -gccapacity:可以显示，VM内存中三代（young,old,perm）对象的使用和占用大小，如：PGCMN显示的是最小perm的内存使用量，PGCMX显示的是perm的内存最大使用量，PGC是当前新生成的perm内存占用量，PC是但前perm内存占用量。其他的可以根据这个类推， OC是old内纯的占用量。 
-</br> &nbsp;&nbsp;&nbsp;jstat -gcnew pid:new对象的信息。 
-</br> &nbsp;&nbsp;&nbsp;jstat -gcnewcapacity pid:new对象的信息及其占用量。 
-</br> &nbsp;&nbsp;&nbsp;jstat -gcold pid:old对象的信息。 
-</br> &nbsp;&nbsp;&nbsp;jstat -gcoldcapacity pid:old对象的信息及其占用量。 
-</br> &nbsp;&nbsp;&nbsp;jstat -gcpermcapacity pid: perm对象的信息及其占用量。 
-</br> &nbsp;&nbsp;&nbsp;jstat -util pid:统计gc信息统计。 
-</br> &nbsp;&nbsp;&nbsp;jstat -printcompilation pid:当前VM执行的信息。 
-</br> &nbsp;&nbsp;&nbsp;除了以上一个参数外，还可以同时加上 两个数字，如：jstat -printcompilation 3024 250 6是每250毫秒打印一次，一共打印6次，还可以加上-h3每三行显示一下标题。 
+使用时，需加上查看进程的进程id，和所选参数。以下详细介绍各个参数的意义。
+</br> &nbsp;&nbsp;&nbsp;jstat -class pid:显示加载class的数量，及所占空间等信息。
+</br> &nbsp;&nbsp;&nbsp;jstat -compiler pid:显示VM实时编译的数量等信息。
+</br> &nbsp;&nbsp;&nbsp;jstat -gc pid:可以显示gc的信息，查看gc的次数，及时间。其中最后五项，分别是young gc的次数，young gc的时间，full gc的次数，full gc的时间，gc的总时间。
+</br> &nbsp;&nbsp;&nbsp;jstat -gccapacity:可以显示，VM内存中三代（young,old,perm）对象的使用和占用大小，如：PGCMN显示的是最小perm的内存使用量，PGCMX显示的是perm的内存最大使用量，PGC是当前新生成的perm内存占用量，PC是但前perm内存占用量。其他的可以根据这个类推， OC是old内纯的占用量。
+</br> &nbsp;&nbsp;&nbsp;jstat -gcnew pid:new对象的信息。
+</br> &nbsp;&nbsp;&nbsp;jstat -gcnewcapacity pid:new对象的信息及其占用量。
+</br> &nbsp;&nbsp;&nbsp;jstat -gcold pid:old对象的信息。
+</br> &nbsp;&nbsp;&nbsp;jstat -gcoldcapacity pid:old对象的信息及其占用量。
+</br> &nbsp;&nbsp;&nbsp;jstat -gcpermcapacity pid: perm对象的信息及其占用量。
+</br> &nbsp;&nbsp;&nbsp;jstat -util pid:统计gc信息统计。
+</br> &nbsp;&nbsp;&nbsp;jstat -printcompilation pid:当前VM执行的信息。
+</br> &nbsp;&nbsp;&nbsp;除了以上一个参数外，还可以同时加上 两个数字，如：jstat -printcompilation 3024 250 6是每250毫秒打印一次，一共打印6次，还可以加上-h3每三行显示一下标题。
 </br>例子：
 
 jstat -gcutil pid 1000 20

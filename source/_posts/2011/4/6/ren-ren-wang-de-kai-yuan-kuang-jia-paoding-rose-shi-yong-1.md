@@ -1,7 +1,6 @@
 title: 人人网的开源框架paoding-rose使用(1)
 id: 186
-categories:
-  - java
+categories: java
 date: 2011-04-06 22:00:18
 tags:
 ---

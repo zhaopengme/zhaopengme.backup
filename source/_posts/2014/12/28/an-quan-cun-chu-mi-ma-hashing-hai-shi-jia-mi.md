@@ -1,8 +1,6 @@
 title: 安全存储密码：Hashing 还是加密？
 id: 1024
-categories:
-  - 网文收藏
-  - 资料文档
+categories: 资料文档
 date: 2014-12-28 15:15:59
 tags:
 ---

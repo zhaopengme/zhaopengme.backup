@@ -1,7 +1,7 @@
 title: 《别让我思考》web设计之道
 id: 142
 categories:
-  - web
+
 date: 2011-12-05 21:11:34
 tags:
 ---

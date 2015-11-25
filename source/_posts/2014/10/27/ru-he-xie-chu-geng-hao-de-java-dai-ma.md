@@ -4,11 +4,7 @@ tags:
   - 架构
   - 编程
   - 设计
-id: 1034
-categories:
-  - java
-  - 网文收藏
-  - 资料文档
+categories: java
 date: 2014-10-27 06:18:21
 ---
 

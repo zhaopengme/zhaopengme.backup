@@ -1,7 +1,6 @@
 title: 推荐电视剧《咱家那些事》（2011）
 id: 143
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-12-05 13:16:02
 tags:
 ---

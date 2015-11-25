@@ -1,7 +1,6 @@
 title: 我的检讨书
 id: 389
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-11 02:31:46
 tags:
 ---

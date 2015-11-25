@@ -1,7 +1,6 @@
 title: 被卖的一天
 id: 295
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-01-26 01:01:37
 tags:
 ---

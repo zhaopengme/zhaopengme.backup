@@ -1,7 +1,6 @@
 title: js实现打印
 id: 455
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-06 02:33:00
 tags:
 ---

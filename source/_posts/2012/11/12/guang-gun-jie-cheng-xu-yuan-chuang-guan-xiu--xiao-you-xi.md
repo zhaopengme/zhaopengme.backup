@@ -1,7 +1,6 @@
 title: 光棍节程序员闯关秀 小游戏
 id: 36
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-11-12 01:16:12
 tags:
 ---

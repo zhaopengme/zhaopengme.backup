@@ -1,7 +1,6 @@
 title: 5月6月牢骚一大把
 id: 180
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-06-10 04:47:08
 tags:
 ---

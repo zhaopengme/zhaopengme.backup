@@ -1,7 +1,6 @@
 title: 棘手的问题
 id: 530
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-05 08:14:00
 tags:
 ---

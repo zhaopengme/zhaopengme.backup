@@ -1,7 +1,5 @@
 title: 公交车上偶遇linux
-id: 651
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-23 08:24:00
 tags:
 ---

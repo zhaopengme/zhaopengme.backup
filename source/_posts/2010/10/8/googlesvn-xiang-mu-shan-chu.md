@@ -1,7 +1,6 @@
 title: Google svn项目删除
 id: 229
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-08 17:44:12
 tags:
 ---

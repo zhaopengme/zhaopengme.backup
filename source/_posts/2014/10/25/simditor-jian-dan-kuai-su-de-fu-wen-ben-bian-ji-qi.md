@@ -5,9 +5,7 @@ tags:
   - js工具包
   - 编辑器
 id: 1038
-categories:
-  - 框架推荐
-  - 软件工具
+categories: 软件工具
 date: 2014-10-25 06:17:42
 ---
 

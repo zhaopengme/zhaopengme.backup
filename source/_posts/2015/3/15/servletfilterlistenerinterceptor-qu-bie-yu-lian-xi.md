@@ -1,10 +1,10 @@
 title: servlet/filter/listener/interceptor区别与联系
 tags:
   - java
-  - web
+
 id: 940
 categories:
-  - web
+
 date: 2015-03-15 08:48:47
 ---
 

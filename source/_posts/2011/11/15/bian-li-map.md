@@ -1,7 +1,6 @@
 title: 遍历MAP
 id: 158
-categories:
-  - java
+categories: java
 date: 2011-11-15 00:46:23
 tags:
 ---

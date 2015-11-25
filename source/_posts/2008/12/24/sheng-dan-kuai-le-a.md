@@ -1,7 +1,6 @@
 title: 圣诞快乐啊
 id: 541
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-24 05:29:00
 tags:
 ---

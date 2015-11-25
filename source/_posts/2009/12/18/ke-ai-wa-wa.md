@@ -1,7 +1,6 @@
 title: 可爱娃娃
 id: 315
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-18 02:07:38
 tags:
 ---

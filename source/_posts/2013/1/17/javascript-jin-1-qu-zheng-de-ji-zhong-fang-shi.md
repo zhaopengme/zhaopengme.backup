@@ -1,7 +1,6 @@
 title: javascript  进1取整的几种方式
 id: 16
-categories:
-  - java
+categories: java
 date: 2013-01-17 15:00:02
 tags:
 ---

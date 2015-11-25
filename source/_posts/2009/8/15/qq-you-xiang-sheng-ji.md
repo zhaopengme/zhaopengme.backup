@@ -1,7 +1,6 @@
 title: QQ邮箱升级
 id: 369
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-15 13:48:09
 tags:
 ---

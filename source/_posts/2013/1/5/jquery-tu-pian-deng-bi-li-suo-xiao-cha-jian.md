@@ -1,7 +1,7 @@
 title: jquery图片等比例缩小插件
 id: 18
 categories:
-  - web
+
 date: 2013-01-05 20:55:26
 tags:
 ---

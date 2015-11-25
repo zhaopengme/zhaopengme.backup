@@ -1,7 +1,6 @@
 title: 支持外链的mp3网站
 id: 549
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-14 12:30:00
 tags:
 ---

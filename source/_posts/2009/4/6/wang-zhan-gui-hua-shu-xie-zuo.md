@@ -1,7 +1,6 @@
 title: 网站规划书写作
 id: 475
-categories:
-  - java
+categories: java
 date: 2009-04-06 04:50:00
 tags:
 ---

@@ -1,7 +1,5 @@
 title: 本地连接断开，但是能上网
-id: 697
-categories:
-  - 软件工具
+categories: 闲言碎语
 date: 2008-04-17 04:15:00
 tags:
 ---

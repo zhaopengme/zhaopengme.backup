@@ -1,7 +1,6 @@
 title: 利用set去除list中的重复值
 id: 236
-categories:
-  - java
+categories: java
 date: 2010-09-27 22:39:20
 tags:
 ---

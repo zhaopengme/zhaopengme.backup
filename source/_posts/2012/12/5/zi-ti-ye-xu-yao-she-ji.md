@@ -1,7 +1,7 @@
 title: 字体也需要设计
 id: 29
 categories:
-  - web
+
 date: 2012-12-05 13:01:14
 tags:
 ---

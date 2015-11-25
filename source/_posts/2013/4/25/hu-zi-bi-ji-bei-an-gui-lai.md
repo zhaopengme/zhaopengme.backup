@@ -1,7 +1,6 @@
 title: 胡子笔记备案归来
 id: 722
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-04-25 16:49:42
 tags:
 ---

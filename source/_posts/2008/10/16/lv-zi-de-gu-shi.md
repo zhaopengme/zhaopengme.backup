@@ -1,7 +1,6 @@
 title: 驴子的故事
 id: 607
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-10-16 14:18:00
 tags:
 ---

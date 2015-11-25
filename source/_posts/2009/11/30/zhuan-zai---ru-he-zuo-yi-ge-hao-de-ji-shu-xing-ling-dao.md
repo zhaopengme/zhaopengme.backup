@@ -1,7 +1,6 @@
 title: 转载-如何做一个好的技术型领导
 id: 323
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-11-30 22:25:30
 tags:
 ---

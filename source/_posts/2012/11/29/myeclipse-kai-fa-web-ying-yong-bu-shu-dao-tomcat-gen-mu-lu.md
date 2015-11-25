@@ -1,7 +1,7 @@
 title: Myeclipse开发web应用部署到tomcat根目录
 id: 30
 categories:
-  - web
+
 date: 2012-11-29 12:45:50
 tags:
 ---

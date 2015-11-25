@@ -1,7 +1,6 @@
 title: win7下面android使用eclipse开发环境部署
 id: 230
-categories:
-  - java
+categories: java
 date: 2010-10-08 15:20:59
 tags:
 ---

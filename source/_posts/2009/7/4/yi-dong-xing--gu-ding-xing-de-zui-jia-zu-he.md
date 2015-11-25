@@ -1,7 +1,7 @@
 title: 移动性、固定性的最佳组合
 id: 396
 categories:
-  - web
+
 date: 2009-07-04 14:40:46
 tags:
 ---

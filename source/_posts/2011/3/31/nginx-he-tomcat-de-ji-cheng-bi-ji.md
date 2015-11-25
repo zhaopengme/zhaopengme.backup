@@ -1,7 +1,7 @@
 title: nginx和tomcat的集成笔记
 id: 189
 categories:
-  - web
+
 date: 2011-03-31 01:06:28
 tags:
 ---

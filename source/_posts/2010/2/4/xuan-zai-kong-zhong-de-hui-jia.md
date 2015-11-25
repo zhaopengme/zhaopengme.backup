@@ -1,7 +1,6 @@
 title: 悬在空中的回家
 id: 293
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-02-04 19:27:14
 tags:
 ---

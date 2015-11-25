@@ -1,7 +1,6 @@
 title: cool左手鼠标指针
 id: 58
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-14 17:20:06
 tags:
 ---

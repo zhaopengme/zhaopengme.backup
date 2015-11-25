@@ -1,7 +1,6 @@
 title: asp版的简单留言板
 id: 474
-categories:
-  - java
+categories: java
 date: 2009-04-07 07:10:00
 tags:
 ---

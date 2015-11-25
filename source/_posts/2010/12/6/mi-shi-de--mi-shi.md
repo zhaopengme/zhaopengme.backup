@@ -1,7 +1,6 @@
 title: 迷失的“迷失”
 id: 210
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-12-06 02:20:20
 tags:
 ---

@@ -1,7 +1,6 @@
 title: oracle的层次树形结构的查询
 id: 147
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-11-21 12:52:07
 tags:
 ---

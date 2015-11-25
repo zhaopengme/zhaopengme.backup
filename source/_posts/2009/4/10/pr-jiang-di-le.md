@@ -1,7 +1,6 @@
 title: pr降低了
 id: 471
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-10 05:04:00
 tags:
 ---

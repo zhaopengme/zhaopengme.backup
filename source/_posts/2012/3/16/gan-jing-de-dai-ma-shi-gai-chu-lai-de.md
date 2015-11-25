@@ -1,7 +1,6 @@
 title: 干净的代码是改出来的
 id: 106
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-16 09:45:00
 tags:
 ---

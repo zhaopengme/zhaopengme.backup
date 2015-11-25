@@ -1,7 +1,6 @@
 title: sql的强大
 id: 434
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-16 00:27:10
 tags:
 ---

@@ -1,7 +1,6 @@
 title: redhat9 jdk安装笔记
 id: 254
-categories:
-  - java
+categories: java
 date: 2010-05-21 03:56:36
 tags:
 ---

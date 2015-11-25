@@ -1,7 +1,6 @@
 title: 人疲了
 id: 346
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-06 04:53:20
 tags:
 ---

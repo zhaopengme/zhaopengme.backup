@@ -1,7 +1,6 @@
 title: '[一种声音]雷锋复出能走多远？'
 id: 116
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-03-02 18:41:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 驴子出生
 id: 606
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-10-16 14:20:00
 tags:
 ---

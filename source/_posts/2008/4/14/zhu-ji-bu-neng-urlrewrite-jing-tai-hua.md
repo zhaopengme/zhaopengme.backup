@@ -1,7 +1,5 @@
 title: 主机不能urlrewrite静态化
-id: 699
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-04-14 23:36:00
 tags:
 ---

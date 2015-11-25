@@ -1,7 +1,6 @@
 title: 代码优化实例-Java用JDBC批处理插入
 id: 102
-categories:
-  - java
+categories: java
 date: 2012-03-23 13:53:59
 tags:
 ---

@@ -1,7 +1,6 @@
 title: php快速框架的选择
 id: 193
-categories:
-  - java
+categories: java
 date: 2011-03-22 21:38:52
 tags:
 ---

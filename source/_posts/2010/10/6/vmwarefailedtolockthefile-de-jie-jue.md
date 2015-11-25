@@ -1,7 +1,6 @@
 title: 'vmware, failed to lock the file 的解决'
 id: 233
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-06 10:11:53
 tags:
 ---

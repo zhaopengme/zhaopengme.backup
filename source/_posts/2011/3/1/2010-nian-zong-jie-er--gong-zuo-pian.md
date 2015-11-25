@@ -1,7 +1,6 @@
 title: 2010年总结二【工作篇】
 id: 206
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-01 00:05:13
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 一场暴雨
 id: 571
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:21:00
 tags:
 ---

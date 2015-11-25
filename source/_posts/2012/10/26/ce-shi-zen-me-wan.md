@@ -1,7 +1,6 @@
 title: 测试怎么玩
 id: 44
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-26 01:53:14
 tags:
 ---

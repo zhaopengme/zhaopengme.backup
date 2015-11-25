@@ -1,7 +1,7 @@
 title: 多个WEB页面设计经验-什么是设计中的“大气”
 id: 890
 categories:
-  - web
+
 date: 2013-01-28 15:00:02
 tags:
 ---

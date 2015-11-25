@@ -1,7 +1,6 @@
 title: 视频-精神分裂症
 id: 169
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-08-27 18:49:56
 tags:
 ---

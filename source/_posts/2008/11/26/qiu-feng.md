@@ -1,7 +1,6 @@
 title: 秋枫
 id: 596
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:41:00
 tags:
 ---

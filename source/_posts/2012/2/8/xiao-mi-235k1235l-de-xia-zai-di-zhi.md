@@ -1,7 +1,6 @@
 title: '小米2.3.5K1,2.3.5L的下载地址'
 id: 126
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-02-08 12:25:42
 tags:
 ---

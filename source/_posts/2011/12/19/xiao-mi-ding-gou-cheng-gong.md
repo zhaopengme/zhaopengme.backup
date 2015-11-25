@@ -1,7 +1,6 @@
 title: 小米订购成功
 id: 135
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-12-19 12:36:59
 tags:
 ---

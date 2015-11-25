@@ -1,7 +1,6 @@
 title: 我的9月读书计划
 id: 362
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-30 02:03:43
 tags:
 ---

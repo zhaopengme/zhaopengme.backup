@@ -1,7 +1,6 @@
 title: 数字360在百度移动应用上的介绍
 id: 65
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-08 13:50:23
 tags:
 ---

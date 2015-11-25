@@ -1,7 +1,6 @@
 title: 这个春天我能感觉的到
 id: 486
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-20 05:11:00
 tags:
 ---

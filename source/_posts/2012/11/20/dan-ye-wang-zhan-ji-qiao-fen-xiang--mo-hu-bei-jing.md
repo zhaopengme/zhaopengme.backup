@@ -1,7 +1,7 @@
 title: 单页网站技巧分享——模糊背景
 id: 32
 categories:
-  - web
+
 date: 2012-11-20 08:40:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 全国省市信息数据以及模型
 id: 151
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-11-17 00:08:06
 tags:
 ---

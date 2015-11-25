@@ -1,7 +1,6 @@
 title: 如何在不记忆的情况下学习
 id: 331
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-11-17 12:51:56
 tags:
 ---

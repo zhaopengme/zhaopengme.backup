@@ -1,7 +1,6 @@
 title: 又是个不眠夜
 id: 292
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-02-05 08:34:58
 tags:
 ---

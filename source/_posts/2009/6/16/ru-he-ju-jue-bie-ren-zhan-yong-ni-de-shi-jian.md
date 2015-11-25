@@ -1,7 +1,6 @@
 title: 如何拒绝别人占用你的时间
 id: 406
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-16 04:53:37
 tags:
 ---

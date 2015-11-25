@@ -1,7 +1,6 @@
 title: com.ibm.bpe.api.StandardFaultException-未解决
 id: 304
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-01-15 19:53:32
 tags:
 ---

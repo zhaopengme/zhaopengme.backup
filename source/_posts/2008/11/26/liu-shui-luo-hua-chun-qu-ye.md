@@ -1,7 +1,6 @@
 title: 流水落花春去也
 id: 598
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:38:00
 tags:
 ---

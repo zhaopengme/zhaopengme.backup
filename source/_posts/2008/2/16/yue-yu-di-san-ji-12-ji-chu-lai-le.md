@@ -1,7 +1,5 @@
 title: 越狱第三季12集出来了
-id: 710
-categories:
-  - 休闲娱乐
+categories: 闲言碎语
 date: 2008-02-16 04:37:00
 tags:
 ---

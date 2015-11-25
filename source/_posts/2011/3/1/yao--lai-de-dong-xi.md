@@ -1,7 +1,6 @@
 title: “要”来的东西
 id: 204
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-01 20:49:46
 tags:
 ---

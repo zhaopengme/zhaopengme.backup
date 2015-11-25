@@ -1,7 +1,6 @@
 title: 2010年总结一【恼骚篇】
 id: 207
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-02-28 23:44:40
 tags:
 ---

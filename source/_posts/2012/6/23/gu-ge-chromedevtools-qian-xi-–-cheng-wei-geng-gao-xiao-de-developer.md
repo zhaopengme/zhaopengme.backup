@@ -1,7 +1,6 @@
 title: 谷歌 Chrome Dev Tools 浅析 – 成为更高效的 Developer
 id: 96
-categories:
-  - java
+categories: java
 date: 2012-06-23 14:40:42
 tags:
 ---

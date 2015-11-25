@@ -1,7 +1,6 @@
 title: 在 ubuntu下 安装 WPS出现缺少libstdc++.so.5的解决办法
 id: 255
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-05-18 01:10:12
 tags:
 ---

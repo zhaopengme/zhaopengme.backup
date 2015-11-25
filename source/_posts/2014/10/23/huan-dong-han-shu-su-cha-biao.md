@@ -3,10 +3,7 @@ tags:
   - 动画
   - 设计
 id: 1043
-categories:
-  - web
-  - 框架推荐
-  - 软件工具
+categories: 软件工具
 date: 2014-10-23 06:16:44
 ---
 

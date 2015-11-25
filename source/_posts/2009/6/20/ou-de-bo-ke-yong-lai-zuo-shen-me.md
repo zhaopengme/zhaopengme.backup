@@ -1,7 +1,6 @@
 title: 偶的博客用来做什么？
 id: 404
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-20 01:59:28
 tags:
 ---

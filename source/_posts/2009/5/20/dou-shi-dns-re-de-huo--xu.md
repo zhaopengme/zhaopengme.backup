@@ -1,7 +1,6 @@
 title: 都是dns惹得祸（续）
 id: 426
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-20 22:55:27
 tags:
 ---

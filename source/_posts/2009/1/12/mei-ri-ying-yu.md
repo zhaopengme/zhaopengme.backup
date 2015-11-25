@@ -1,7 +1,6 @@
 title: 每日英语
 id: 520
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-12 15:12:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 优秀的手机应用UI赏析
 id: 75
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-09-27 17:20:04
 tags:
 ---

@@ -1,7 +1,6 @@
 title: Twitter Bootstrap 中文帮助文档/中文手册/中文教程
 id: 85
-categories:
-  - java
+categories: java
 date: 2012-07-27 14:37:43
 tags:
 ---

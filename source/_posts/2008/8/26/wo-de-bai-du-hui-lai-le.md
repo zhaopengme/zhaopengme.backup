@@ -1,7 +1,5 @@
 title: 我的百度回来了
-id: 649
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-26 03:42:00
 tags:
 ---

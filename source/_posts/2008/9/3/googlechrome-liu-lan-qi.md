@@ -1,7 +1,7 @@
 title: google Chrome浏览器
 id: 643
 categories:
-  - web
+
 date: 2008-09-03 15:19:00
 tags:
 ---

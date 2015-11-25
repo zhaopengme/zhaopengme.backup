@@ -1,7 +1,6 @@
 title: 西安实习第二日
 id: 623
-categories:
-  - java
+categories: java
 date: 2008-09-20 00:55:00
 tags:
 ---

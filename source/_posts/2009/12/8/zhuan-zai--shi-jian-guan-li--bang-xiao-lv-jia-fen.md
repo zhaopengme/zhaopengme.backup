@@ -1,7 +1,6 @@
 title: 转载：时间管理，帮效率加分
 id: 321
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2009-12-08 20:54:03
 tags:
 ---

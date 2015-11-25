@@ -1,7 +1,6 @@
 title: QQ影音发布，腾讯进军播放器了
 id: 633
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-09-10 00:25:00
 tags:
 ---

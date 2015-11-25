@@ -1,7 +1,6 @@
 title: 这方土地
 id: 567
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:25:00
 tags:
 ---

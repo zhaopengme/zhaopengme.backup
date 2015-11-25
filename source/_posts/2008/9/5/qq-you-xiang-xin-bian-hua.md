@@ -1,7 +1,7 @@
 title: qq邮箱新变化
 id: 640
 categories:
-  - web
+
 date: 2008-09-05 00:35:00
 tags:
 ---

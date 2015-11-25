@@ -1,7 +1,5 @@
 title: 可怕的地震
-id: 685
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-05-13 08:10:00
 tags:
 ---

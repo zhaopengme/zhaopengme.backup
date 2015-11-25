@@ -1,7 +1,6 @@
 title: 中秋行动
 id: 168
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-09-13 02:56:13
 tags:
 ---

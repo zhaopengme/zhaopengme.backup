@@ -1,7 +1,6 @@
 title: 恶心的搜狗浏览器
 id: 281
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-10 19:18:57
 tags:
 ---

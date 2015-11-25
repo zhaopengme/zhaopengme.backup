@@ -1,7 +1,6 @@
 title: 个人密码安全策略
 id: 121
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-02-22 17:10:50
 tags:
 ---

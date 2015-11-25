@@ -1,7 +1,6 @@
 title: 瞧瞧我以后能做什么
 id: 538
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-27 12:15:00
 tags:
 ---

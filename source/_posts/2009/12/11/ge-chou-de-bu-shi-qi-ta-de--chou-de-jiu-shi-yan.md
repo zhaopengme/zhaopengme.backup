@@ -1,7 +1,6 @@
 title: 哥抽的不是其他的，抽的就是烟
 id: 320
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-11 02:06:43
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 命起涟漪-仙剑5音乐
 id: 216
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2010-11-07 06:05:57
 tags:
 ---

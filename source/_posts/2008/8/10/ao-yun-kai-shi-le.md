@@ -1,7 +1,5 @@
 title: 奥运开始了
-id: 656
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-10 16:07:00
 tags:
 ---

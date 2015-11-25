@@ -1,7 +1,6 @@
 title: 新婚祝福青儿
 id: 900
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2014-01-23 09:48:48
 tags:
 ---
@@ -10,8 +9,8 @@ tags:
 
 今天是高中同学青儿的婚礼，抱歉不能参加，只能遥祝一下了。
 
-送上一段祝福！ 
+送上一段祝福！
 
 > My very best wishes to you for a lifetime of happiness．
-> 
+>
 > 　　向你俩致以最美好的祝愿，祝你们终生幸福。

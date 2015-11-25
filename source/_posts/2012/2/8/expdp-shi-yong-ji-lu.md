@@ -1,7 +1,6 @@
 title: expdp使用记录
 id: 125
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-02-08 18:03:31
 tags:
 ---

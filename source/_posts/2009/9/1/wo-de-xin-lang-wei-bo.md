@@ -1,7 +1,6 @@
 title: 我的新浪微博
 id: 361
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-01 13:39:50
 tags:
 ---

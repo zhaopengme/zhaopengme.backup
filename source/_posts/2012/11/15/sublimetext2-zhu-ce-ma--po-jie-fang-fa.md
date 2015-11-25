@@ -1,7 +1,6 @@
 title: Sublime Text 2 注册码/破解方法
 id: 33
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-11-15 12:41:30
 tags:
 ---

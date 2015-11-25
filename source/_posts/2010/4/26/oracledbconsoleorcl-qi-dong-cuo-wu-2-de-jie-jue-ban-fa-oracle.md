@@ -1,7 +1,6 @@
 title: 'OracleDBConsoleorcl启动错误2的解决办法[oracle]'
 id: 257
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-04-26 22:45:32
 tags:
 ---

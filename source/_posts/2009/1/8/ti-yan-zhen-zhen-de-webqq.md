@@ -1,7 +1,7 @@
 title: 体验真真的webQQ
 id: 527
 categories:
-  - web
+
 date: 2009-01-08 13:49:00
 tags:
 ---

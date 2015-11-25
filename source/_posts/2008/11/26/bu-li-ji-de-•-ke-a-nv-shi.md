@@ -1,7 +1,6 @@
 title: 布里几德•克阿女士
 id: 592
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:47:00
 tags:
 ---

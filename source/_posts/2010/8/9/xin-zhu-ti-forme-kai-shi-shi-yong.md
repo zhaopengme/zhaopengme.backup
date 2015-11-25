@@ -1,7 +1,7 @@
 title: 新主题ForMe开始使用
 id: 239
 categories:
-  - web
+
 date: 2010-08-09 12:56:44
 tags:
 ---

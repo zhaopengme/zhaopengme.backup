@@ -1,7 +1,6 @@
 title: 09年普通高校毕业生举办17场就业洽谈会
 id: 490
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-05 13:10:00
 tags:
 ---

@@ -1,7 +1,5 @@
 title: 过好你们的生活
-id: 667
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-22 09:09:00
 tags:
 ---

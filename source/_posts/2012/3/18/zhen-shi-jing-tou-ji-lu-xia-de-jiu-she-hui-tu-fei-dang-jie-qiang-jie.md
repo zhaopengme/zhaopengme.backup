@@ -1,7 +1,6 @@
 title: 真实镜头记录下的旧社会土匪当街抢劫
 id: 105
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-18 00:24:15
 tags:
 ---

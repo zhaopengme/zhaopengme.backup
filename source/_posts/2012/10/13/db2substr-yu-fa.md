@@ -1,7 +1,6 @@
 title: db2 substr语法
 id: 61
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-13 14:42:50
 tags:
 ---

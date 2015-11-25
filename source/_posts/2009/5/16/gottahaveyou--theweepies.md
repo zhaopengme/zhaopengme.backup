@@ -1,7 +1,6 @@
 title: Gotta Have You -- The Weepies
 id: 431
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-16 17:40:09
 tags:
 ---

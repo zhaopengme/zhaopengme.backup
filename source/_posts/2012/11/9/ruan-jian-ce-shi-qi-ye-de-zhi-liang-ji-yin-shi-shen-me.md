@@ -1,7 +1,6 @@
 title: 软件测试企业的质量基因是什么？
 id: 37
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-11-09 23:45:51
 tags:
 ---

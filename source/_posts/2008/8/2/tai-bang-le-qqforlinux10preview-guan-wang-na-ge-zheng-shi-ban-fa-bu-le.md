@@ -1,7 +1,5 @@
 title: 太棒了，QQ for linux 1.0 preview 官网那个正式版发布了。
-id: 662
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-02 05:43:00
 tags:
 ---

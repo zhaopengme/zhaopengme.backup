@@ -1,7 +1,6 @@
 title: H1N1的恐怖
 id: 458
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-29 02:36:00
 tags:
 ---

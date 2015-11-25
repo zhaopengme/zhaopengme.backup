@@ -1,7 +1,6 @@
 title: 以后的IT路还很长（1）
 id: 179
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-07-19 02:00:14
 tags:
 ---

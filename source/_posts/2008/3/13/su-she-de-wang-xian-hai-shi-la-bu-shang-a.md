@@ -1,7 +1,5 @@
 title: '宿舍的网线还是垃不上啊!'
-id: 703
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-03-13 09:11:00
 tags:
 ---

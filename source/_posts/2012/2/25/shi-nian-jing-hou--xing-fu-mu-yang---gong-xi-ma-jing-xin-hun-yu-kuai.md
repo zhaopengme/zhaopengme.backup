@@ -1,7 +1,6 @@
 title: '#十年静候 幸福模样#-恭喜马京新婚愉快'
 id: 120
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-02-25 20:23:11
 tags:
 ---

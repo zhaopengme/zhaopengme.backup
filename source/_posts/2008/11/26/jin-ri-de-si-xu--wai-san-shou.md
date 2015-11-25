@@ -1,7 +1,6 @@
 title: 近日的思绪（外三首）
 id: 587
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:02:00
 tags:
 ---

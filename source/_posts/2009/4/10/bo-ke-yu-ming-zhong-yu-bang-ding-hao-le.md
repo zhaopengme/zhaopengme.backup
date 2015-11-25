@@ -1,7 +1,6 @@
 title: 博客域名终于绑定好了
 id: 472
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-10 04:49:00
 tags:
 ---

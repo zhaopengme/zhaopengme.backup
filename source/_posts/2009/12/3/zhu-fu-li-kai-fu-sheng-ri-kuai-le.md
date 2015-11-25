@@ -1,7 +1,6 @@
 title: 祝福李开复生日快乐
 id: 322
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-03 03:18:42
 tags:
 ---

@@ -2,8 +2,7 @@ title: 动物之魂
 tags:
   - 美图
 id: 1005
-categories:
-  - 摄影
+categories: 摄影
 date: 2015-01-05 18:31:13
 ---
 

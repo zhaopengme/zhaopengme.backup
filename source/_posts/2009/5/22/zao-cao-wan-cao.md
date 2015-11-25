@@ -1,7 +1,6 @@
 title: 早操晚操
 id: 421
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-22 12:45:51
 tags:
 ---

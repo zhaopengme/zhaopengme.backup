@@ -1,7 +1,6 @@
 title: 变态发明-usb烤面包机
 id: 561
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-11-30 02:55:00
 tags:
 ---

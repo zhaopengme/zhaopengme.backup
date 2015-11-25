@@ -1,7 +1,6 @@
 title: 明天午后
 id: 378
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-23 12:57:57
 tags:
 ---

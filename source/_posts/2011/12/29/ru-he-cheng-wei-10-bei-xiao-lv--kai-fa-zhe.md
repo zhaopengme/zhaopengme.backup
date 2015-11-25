@@ -1,7 +1,7 @@
 title: 如何成为“10倍效率”开发者
 id: 132
 categories:
-  - web
+
 date: 2011-12-29 11:12:14
 tags:
 ---

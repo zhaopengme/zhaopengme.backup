@@ -1,7 +1,6 @@
 title: hope——我们一直在前进
 id: 557
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-02 12:01:00
 tags:
 ---

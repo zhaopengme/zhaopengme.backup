@@ -1,7 +1,6 @@
 title: 红旗2000办公软件(RedOffice) 4.5 for Windows Beta
 id: 432
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-05-16 02:40:54
 tags:
 ---

@@ -1,7 +1,5 @@
 title: 新申请了一个新站joypen.cn，头脑发热了
-id: 702
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-07 14:18:00
 tags:
 ---

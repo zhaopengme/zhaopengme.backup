@@ -1,7 +1,6 @@
 title: linux使用一周的体验
 id: 82
-categories:
-  - java
+categories: java
 date: 2012-08-06 08:00:00
 tags:
 ---

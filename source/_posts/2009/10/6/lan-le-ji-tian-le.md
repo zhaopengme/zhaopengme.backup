@@ -1,7 +1,6 @@
 title: 懒了几天了
 id: 343
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-06 05:12:12
 tags:
 ---

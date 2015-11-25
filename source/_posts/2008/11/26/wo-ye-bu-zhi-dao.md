@@ -1,7 +1,6 @@
 title: 我也不知道
 id: 574
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:15:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: Eclipse快捷键
 id: 463
-categories:
-  - java
+categories: java
 date: 2009-04-23 03:13:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: bootstrap的axure原型设计组件
 id: 84
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-07-31 13:29:26
 tags:
 ---

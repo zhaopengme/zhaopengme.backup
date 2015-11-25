@@ -1,7 +1,5 @@
 title: 烛光祈福
-id: 681
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-05-20 16:28:00
 tags:
 ---

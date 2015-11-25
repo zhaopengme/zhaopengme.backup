@@ -1,7 +1,7 @@
 title: oracle数据库安装后的工作
 id: 261
 categories:
-  - web
+
 date: 2010-04-12 01:02:51
 tags:
 ---

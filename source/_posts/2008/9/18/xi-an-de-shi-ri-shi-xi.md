@@ -1,7 +1,6 @@
 title: 西安的十日实习
 id: 625
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-18 12:46:00
 tags:
 ---

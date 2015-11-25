@@ -1,7 +1,7 @@
 title: 960CSS框架基本原理
 id: 191
 categories:
-  - web
+
 date: 2011-03-26 17:10:21
 tags:
 ---

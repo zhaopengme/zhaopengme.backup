@@ -1,7 +1,5 @@
 title: 2008年8月1日到了，溜一下
-id: 664
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-01 16:44:00
 tags:
 ---

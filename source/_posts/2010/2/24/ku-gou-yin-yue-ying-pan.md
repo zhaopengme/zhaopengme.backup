@@ -1,7 +1,6 @@
 title: 酷狗音乐硬盘
 id: 289
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2010-02-24 12:18:09
 tags:
 ---

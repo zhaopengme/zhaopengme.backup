@@ -1,7 +1,6 @@
 title: '学会安静[学会系列]'
 id: 354
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-17 02:33:50
 tags:
 ---

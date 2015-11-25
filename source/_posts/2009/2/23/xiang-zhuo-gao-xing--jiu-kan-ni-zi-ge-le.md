@@ -1,7 +1,6 @@
 title: 想着高兴，就看你自个了
 id: 499
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2009-02-23 05:33:00
 tags:
 ---

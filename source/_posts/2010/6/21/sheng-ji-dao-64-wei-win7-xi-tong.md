@@ -1,7 +1,6 @@
 title: 升级到64位win7系统
 id: 250
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-06-21 20:49:42
 tags:
 ---

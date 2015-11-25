@@ -1,7 +1,6 @@
 title: blank主题for wordpress
 id: 610
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-10-09 06:49:00
 tags:
 ---

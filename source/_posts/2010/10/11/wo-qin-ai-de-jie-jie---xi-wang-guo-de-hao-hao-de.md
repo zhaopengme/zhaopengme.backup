@@ -1,7 +1,6 @@
 title: 我亲爱的姐姐-希望过的好好的
 id: 227
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-11 22:50:07
 tags:
 ---

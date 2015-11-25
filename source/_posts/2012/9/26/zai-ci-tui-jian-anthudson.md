@@ -1,7 +1,6 @@
 title: 再次推荐ant+hudson
 id: 76
-categories:
-  - java
+categories: java
 date: 2012-09-26 14:30:03
 tags:
 ---
@@ -29,7 +28,7 @@ tags:
 </br> 在_Build Triggers_中，我选择_Build periodically_，表示定时执行，需要写调度表达式。
 </br>
 > ##### 调度表达式资料:
-> 
+>
 > Schedule的配置规则是有5个空格隔开的字符组成，从左到右分别代表：分 时 天 月 年，*代表所有。 例如：0 9 * * * 表示在任何年任何月的任何天的9点的0分
 > </br>
 4.  构建工程

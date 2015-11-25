@@ -1,7 +1,7 @@
 title: Internet Explorer 10 for Windows 7下载
 id: 885
 categories:
-  - web
+
 date: 2013-02-26 23:34:18
 tags:
 ---

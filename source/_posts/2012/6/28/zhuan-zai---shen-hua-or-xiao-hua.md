@@ -1,7 +1,6 @@
 title: 【转载】-神话OR笑话
 id: 94
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-06-28 13:05:55
 tags:
 ---

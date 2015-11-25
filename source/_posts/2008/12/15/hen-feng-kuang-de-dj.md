@@ -1,7 +1,6 @@
 title: 很疯狂的DJ
 id: 547
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2008-12-15 08:44:00
 tags:
 ---

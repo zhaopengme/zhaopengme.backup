@@ -1,7 +1,6 @@
 title: 为父亲——父亲节快乐
 id: 403
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-21 23:04:20
 tags:
 ---

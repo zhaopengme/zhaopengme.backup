@@ -1,7 +1,6 @@
 title: 删除.svn代码
 id: 20
-categories:
-  - java
+categories: java
 date: 2013-01-01 20:37:34
 tags:
 ---

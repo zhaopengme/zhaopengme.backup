@@ -1,7 +1,6 @@
 title: 庆祝一下，转博成功
 id: 478
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-03 05:19:00
 tags:
 ---

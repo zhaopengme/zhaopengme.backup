@@ -1,7 +1,6 @@
 title: 程序员，你的电脑是啥样的啊？
 id: 13
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-01-25 15:00:02
 tags:
 ---

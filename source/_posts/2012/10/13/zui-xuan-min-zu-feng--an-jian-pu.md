@@ -1,7 +1,6 @@
 title: 最炫民族风 按键谱
 id: 60
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-13 15:00:04
 tags:
 ---

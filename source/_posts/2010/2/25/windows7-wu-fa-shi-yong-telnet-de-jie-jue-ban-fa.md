@@ -1,7 +1,6 @@
 title: windows7无法使用telnet的解决办法
 id: 288
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-02-25 19:23:05
 tags:
 ---

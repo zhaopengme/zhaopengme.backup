@@ -1,7 +1,6 @@
 title: LINUX VI 文件编辑器
 id: 308
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-12-24 17:15:55
 tags:
 ---

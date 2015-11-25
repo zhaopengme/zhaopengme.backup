@@ -1,7 +1,6 @@
 title: 鄙视那些不尊重别人劳动成果的人
 id: 55
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-15 13:07:34
 tags:
 ---

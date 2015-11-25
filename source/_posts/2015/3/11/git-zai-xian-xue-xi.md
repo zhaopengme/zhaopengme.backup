@@ -3,9 +3,7 @@ tags:
   - git
   - 版本控制
 id: 926
-categories:
-  - 框架推荐
-  - 软件工具
+categories: 软件工具
 date: 2015-03-11 08:45:12
 ---
 

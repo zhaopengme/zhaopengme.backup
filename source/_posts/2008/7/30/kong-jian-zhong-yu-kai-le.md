@@ -1,7 +1,5 @@
 title: 空间终于开了
-id: 665
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-30 05:36:00
 tags:
 ---

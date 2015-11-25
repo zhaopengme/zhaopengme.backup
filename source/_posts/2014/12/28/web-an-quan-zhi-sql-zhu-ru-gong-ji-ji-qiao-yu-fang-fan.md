@@ -1,10 +1,7 @@
 title: Web安全之SQL注入攻击技巧与防范
 tags:
-  - web安全
   - 安全
-id: 1021
-categories:
-  - 资料文档
+categories: 资料文档
 date: 2014-12-28 15:18:41
 ---
 

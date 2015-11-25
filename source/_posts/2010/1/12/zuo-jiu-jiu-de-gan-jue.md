@@ -1,7 +1,6 @@
 title: 做舅舅的感觉
 id: 305
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-01-12 23:16:17
 tags:
 ---

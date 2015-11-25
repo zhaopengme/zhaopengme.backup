@@ -1,7 +1,6 @@
 title: 大鹏新站整理完毕
 id: 215
-categories:
-  - java
+categories: java
 date: 2010-11-13 23:04:58
 tags:
 ---

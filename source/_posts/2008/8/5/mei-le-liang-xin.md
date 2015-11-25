@@ -1,7 +1,5 @@
 title: 没了良心
-id: 659
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-05 15:38:00
 tags:
 ---

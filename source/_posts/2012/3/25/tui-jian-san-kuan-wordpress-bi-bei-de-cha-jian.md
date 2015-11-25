@@ -1,7 +1,7 @@
 title: 推荐三款wordpress必备的插件
 id: 101
 categories:
-  - web
+
 date: 2012-03-25 00:56:26
 tags:
 ---

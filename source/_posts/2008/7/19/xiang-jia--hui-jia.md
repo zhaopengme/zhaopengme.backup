@@ -1,7 +1,5 @@
 title: 想家，回家
-id: 668
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-19 08:52:00
 tags:
 ---

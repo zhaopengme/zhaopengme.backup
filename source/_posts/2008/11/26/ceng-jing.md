@@ -1,7 +1,6 @@
 title: 曾经
 id: 568
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:24:00
 tags:
 ---

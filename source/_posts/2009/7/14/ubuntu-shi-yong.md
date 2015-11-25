@@ -1,7 +1,6 @@
 title: ubuntu使用
 id: 382
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-14 22:37:07
 tags:
 ---

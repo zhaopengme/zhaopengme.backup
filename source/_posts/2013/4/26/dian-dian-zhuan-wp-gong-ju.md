@@ -1,7 +1,6 @@
 title: 点点转WP工具
 id: 732
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2013-04-26 13:24:44
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 剑桥的人怎么这样啊！
 id: 509
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-04 14:30:00
 tags:
 ---

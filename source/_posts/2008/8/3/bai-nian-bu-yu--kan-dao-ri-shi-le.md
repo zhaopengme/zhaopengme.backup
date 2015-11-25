@@ -1,7 +1,5 @@
 title: 百年不遇，看到日食了
-id: 661
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-03 04:58:00
 tags:
 ---

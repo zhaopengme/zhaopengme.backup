@@ -1,7 +1,6 @@
 title: CygWin使用命令tail打印出来日志中文乱码的解决办法
 id: 284
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-06 08:30:48
 tags:
 ---

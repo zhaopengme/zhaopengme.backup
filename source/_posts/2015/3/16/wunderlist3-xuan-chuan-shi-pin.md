@@ -2,8 +2,7 @@ title: wunderlist3宣传视频
 tags:
   - 视频
 id: 942
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2015-03-16 08:49:30
 ---
 

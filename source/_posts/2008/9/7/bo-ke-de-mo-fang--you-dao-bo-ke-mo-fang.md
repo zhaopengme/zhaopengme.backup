@@ -1,7 +1,6 @@
 title: 博客的魔方——有道博客魔方
 id: 636
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-09-07 16:50:00
 tags:
 ---

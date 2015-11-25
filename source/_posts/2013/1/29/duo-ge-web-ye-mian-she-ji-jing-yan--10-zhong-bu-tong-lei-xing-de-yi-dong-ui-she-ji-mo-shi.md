@@ -1,7 +1,7 @@
 title: 多个WEB页面设计经验-10钟不同类型的移动UI设计模式
 id: 889
 categories:
-  - web
+
 date: 2013-01-29 15:00:02
 tags:
 ---

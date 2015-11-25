@@ -1,7 +1,6 @@
 title: 卸掉IE8，降级使用
 id: 479
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-31 03:59:00
 tags:
 ---

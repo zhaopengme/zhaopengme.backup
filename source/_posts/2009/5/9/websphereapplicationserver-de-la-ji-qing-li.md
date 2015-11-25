@@ -1,7 +1,7 @@
 title: websphere application server的垃圾清理
 id: 447
 categories:
-  - web
+
 date: 2009-05-09 19:10:00
 tags:
 ---

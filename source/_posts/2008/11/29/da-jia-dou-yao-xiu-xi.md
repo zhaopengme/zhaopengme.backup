@@ -1,7 +1,6 @@
 title: 大家都要休息
 id: 562
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-29 04:59:00
 tags:
 ---

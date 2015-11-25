@@ -1,7 +1,5 @@
 title: 初五高三同学一起聚会了
-id: 714
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-15 12:19:00
 tags:
 ---

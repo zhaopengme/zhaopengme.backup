@@ -1,7 +1,6 @@
 title: 有几个蒲公英的邀请
 id: 283
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-09 13:40:11
 tags:
 ---

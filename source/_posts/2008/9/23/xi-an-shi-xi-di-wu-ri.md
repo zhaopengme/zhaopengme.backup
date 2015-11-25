@@ -1,7 +1,6 @@
 title: 西安实习第五日
 id: 620
-categories:
-  - java
+categories: java
 date: 2008-09-23 00:03:00
 tags:
 ---

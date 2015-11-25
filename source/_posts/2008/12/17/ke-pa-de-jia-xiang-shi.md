@@ -1,7 +1,6 @@
 title: 可怕的家乡事
 id: 545
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-17 13:46:00
 tags:
 ---

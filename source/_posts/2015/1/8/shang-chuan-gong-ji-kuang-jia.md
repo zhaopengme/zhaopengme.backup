@@ -1,9 +1,7 @@
 title: 上传攻击框架
 tags:
   - 安全
-id: 999
-categories:
-  - 框架推荐
+categories: 资料文档
 date: 2015-01-08 06:11:39
 ---
 

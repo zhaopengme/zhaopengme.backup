@@ -1,7 +1,6 @@
 title: 问题一个接一个
 id: 614
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-10-04 08:41:00
 tags:
 ---

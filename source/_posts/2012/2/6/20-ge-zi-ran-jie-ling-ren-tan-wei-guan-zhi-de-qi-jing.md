@@ -1,7 +1,6 @@
 title: 20个自然界令人叹为观止的奇景
 id: 127
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-02-06 20:55:27
 tags:
 ---

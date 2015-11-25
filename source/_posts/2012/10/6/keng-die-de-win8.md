@@ -1,7 +1,6 @@
 title: 坑爹的win8
 id: 67
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-06 00:47:03
 tags:
 ---

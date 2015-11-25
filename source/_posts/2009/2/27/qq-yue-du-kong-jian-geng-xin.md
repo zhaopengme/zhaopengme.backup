@@ -1,7 +1,6 @@
 title: QQ阅读空间更新
 id: 494
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-27 13:50:00
 tags:
 ---

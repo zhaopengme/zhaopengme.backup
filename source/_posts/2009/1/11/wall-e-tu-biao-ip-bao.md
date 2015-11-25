@@ -1,7 +1,6 @@
 title: wall-e图标ip包
 id: 523
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-11 14:05:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 雷鲍夫法则：在你着手建立合作和信任时要牢记我们语言中
 id: 507
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-07 04:31:00
 tags:
 ---

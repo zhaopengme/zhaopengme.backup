@@ -1,7 +1,6 @@
 title: 倒转的世界
 id: 526
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-08 13:54:00
 tags:
 ---

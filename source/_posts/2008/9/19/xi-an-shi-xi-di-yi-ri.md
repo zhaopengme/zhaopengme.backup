@@ -1,7 +1,6 @@
 title: 西安实习第一日
 id: 624
-categories:
-  - java
+categories: java
 date: 2008-09-19 12:50:00
 tags:
 ---

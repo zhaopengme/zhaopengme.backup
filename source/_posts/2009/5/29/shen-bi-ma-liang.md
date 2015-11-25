@@ -1,7 +1,6 @@
 title: 神笔马良
 id: 413
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-29 04:33:20
 tags:
 ---

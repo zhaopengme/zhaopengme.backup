@@ -3,9 +3,7 @@ tags:
   - 架构
   - 缓存
   - 设计
-id: 948
-categories:
-  - 框架推荐
+categories: 资料文档
 date: 2015-03-18 08:51:34
 ---
 

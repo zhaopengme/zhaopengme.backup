@@ -1,7 +1,6 @@
 title: 如逝
 id: 582
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:07:00
 tags:
 ---

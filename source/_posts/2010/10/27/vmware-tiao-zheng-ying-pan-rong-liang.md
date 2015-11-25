@@ -1,7 +1,6 @@
 title: vmware调整硬盘容量
 id: 220
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-27 17:13:09
 tags:
 ---

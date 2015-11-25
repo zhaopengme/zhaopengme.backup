@@ -1,7 +1,6 @@
 title: 幻境中的雪
 id: 548
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-14 12:45:00
 tags:
 ---

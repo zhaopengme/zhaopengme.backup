@@ -1,7 +1,5 @@
 title: 腾讯版的linux qq终于要出世了
-id: 674
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-08 14:18:00
 tags:
 ---

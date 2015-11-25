@@ -1,7 +1,6 @@
 title: 冬至到来，祝福各位好运啊！
 id: 310
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-22 23:55:26
 tags:
 ---

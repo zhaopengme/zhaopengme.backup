@@ -1,7 +1,6 @@
 title: jremind内存优化
 id: 451
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-08 22:56:00
 tags:
 ---

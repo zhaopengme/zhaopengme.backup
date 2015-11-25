@@ -1,7 +1,6 @@
 title: css居中无效的解决办法
 id: 602
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-15 08:41:00
 tags:
 ---

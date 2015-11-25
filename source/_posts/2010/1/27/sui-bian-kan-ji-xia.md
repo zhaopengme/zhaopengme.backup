@@ -1,7 +1,6 @@
 title: 随便侃几下
 id: 294
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-01-27 01:31:04
 tags:
 ---

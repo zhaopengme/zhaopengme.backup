@@ -1,7 +1,6 @@
 title: 每一行代码
 id: 80
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-08-29 10:08:17
 tags:
 ---

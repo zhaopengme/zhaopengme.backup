@@ -1,7 +1,6 @@
 title: axis1与axis2的较量
 id: 195
-categories:
-  - java
+categories: java
 date: 2011-03-22 02:12:17
 tags:
 ---

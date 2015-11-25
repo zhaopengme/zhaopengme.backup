@@ -1,7 +1,6 @@
 title: 学会展示自己的人格魅力
 id: 370
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-12 23:51:23
 tags:
 ---

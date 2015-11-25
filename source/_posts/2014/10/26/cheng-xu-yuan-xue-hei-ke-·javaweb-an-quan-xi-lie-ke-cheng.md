@@ -3,8 +3,7 @@ tags:
   - java
   - 安全
 id: 1036
-categories:
-  - java
+categories: java
 date: 2014-10-26 06:18:06
 ---
 

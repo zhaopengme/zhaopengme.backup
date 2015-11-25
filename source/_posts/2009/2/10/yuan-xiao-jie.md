@@ -1,7 +1,6 @@
 title: 元宵节
 id: 503
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-10 13:54:00
 tags:
 ---

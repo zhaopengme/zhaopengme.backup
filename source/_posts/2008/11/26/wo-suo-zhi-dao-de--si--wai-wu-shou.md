@@ -1,7 +1,6 @@
 title: 我所知道的（四）（外五首）
 id: 577
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:12:00
 tags:
 ---

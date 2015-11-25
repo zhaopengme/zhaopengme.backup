@@ -1,7 +1,6 @@
 title: '[转]不能集中注意力怎么办?'
 id: 298
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-01-25 18:19:32
 tags:
 ---

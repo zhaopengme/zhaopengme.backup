@@ -1,7 +1,6 @@
 title: 什么是好工作
 id: 482
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-23 15:11:00
 tags:
 ---

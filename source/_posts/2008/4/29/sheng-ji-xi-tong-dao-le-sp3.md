@@ -1,7 +1,5 @@
 title: 升级系统到了SP3
-id: 691
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-29 04:29:00
 tags:
 ---

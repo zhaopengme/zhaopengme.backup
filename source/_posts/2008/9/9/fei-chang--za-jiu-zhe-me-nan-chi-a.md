@@ -1,7 +1,6 @@
 title: 肥肠，咋就这么难吃啊！
 id: 634
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-09 14:13:00
 tags:
 ---

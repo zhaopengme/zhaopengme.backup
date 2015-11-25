@@ -1,7 +1,7 @@
 title: AccordionContainer
 id: 224
 categories:
-  - web
+
 date: 2010-10-25 13:20:38
 tags:
 ---

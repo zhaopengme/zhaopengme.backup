@@ -1,7 +1,6 @@
 title: 早起感觉好的日子
 id: 329
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-11-23 07:53:54
 tags:
 ---

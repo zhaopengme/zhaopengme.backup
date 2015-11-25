@@ -1,7 +1,6 @@
 title: 拒绝使用360安全浏览器
 id: 103
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-20 13:24:40
 tags:
 ---

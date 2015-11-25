@@ -1,7 +1,5 @@
 title: 用15年的时间来发布1.0正式版-wine
-id: 677
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-06-16 12:10:00
 tags:
 ---

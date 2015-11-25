@@ -1,7 +1,6 @@
 title: 一道有意思的机试题
 id: 489
-categories:
-  - java
+categories: java
 date: 2009-03-12 13:13:00
 tags:
 ---

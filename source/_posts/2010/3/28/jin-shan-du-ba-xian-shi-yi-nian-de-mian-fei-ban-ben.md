@@ -1,7 +1,6 @@
 title: 金山毒霸限时一年的免费版本
 id: 264
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-03-28 00:58:10
 tags:
 ---

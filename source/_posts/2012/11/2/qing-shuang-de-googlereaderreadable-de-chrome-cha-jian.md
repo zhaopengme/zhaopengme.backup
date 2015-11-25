@@ -1,7 +1,7 @@
 title: 清爽的Google Reader Readable的chrome插件
 id: 39
 categories:
-  - web
+
 date: 2012-11-02 12:32:16
 tags:
 ---

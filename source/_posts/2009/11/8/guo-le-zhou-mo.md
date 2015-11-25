@@ -1,7 +1,6 @@
 title: 过了周末
 id: 335
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2009-11-08 17:30:33
 tags:
 ---

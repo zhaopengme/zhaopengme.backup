@@ -1,7 +1,6 @@
 title: BPEL-ParallelActivities作用
 id: 302
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-01-15 20:48:04
 tags:
 ---

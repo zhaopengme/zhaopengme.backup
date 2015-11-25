@@ -1,7 +1,6 @@
 title: 流雪
 id: 542
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-24 05:28:00
 tags:
 ---

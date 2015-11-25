@@ -1,7 +1,5 @@
 title: 新年新站的第一个新日志
-id: 716
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-07 16:14:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 情到深处便无言
 id: 597
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:40:00
 tags:
 ---

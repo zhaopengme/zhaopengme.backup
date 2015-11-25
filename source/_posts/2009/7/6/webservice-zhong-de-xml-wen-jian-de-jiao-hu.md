@@ -1,7 +1,6 @@
 title: webservice中的xml文件的交互
 id: 393
-categories:
-  - java
+categories: java
 date: 2009-07-06 13:16:45
 tags:
 ---

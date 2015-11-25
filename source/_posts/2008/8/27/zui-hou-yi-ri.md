@@ -1,7 +1,5 @@
 title: 最后一日
-id: 647
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-27 16:50:00
 tags:
 ---

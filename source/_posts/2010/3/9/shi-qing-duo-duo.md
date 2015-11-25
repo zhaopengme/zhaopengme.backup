@@ -1,7 +1,6 @@
 title: 事情多多
 id: 282
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-09 13:40:53
 tags:
 ---

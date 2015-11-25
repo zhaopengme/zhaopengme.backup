@@ -1,7 +1,6 @@
 title: 学习翻硬币
 id: 408
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-12 22:15:39
 tags:
 ---

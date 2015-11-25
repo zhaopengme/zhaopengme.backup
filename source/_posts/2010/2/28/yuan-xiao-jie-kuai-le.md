@@ -1,7 +1,6 @@
 title: 元宵节快乐
 id: 286
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-02-28 23:11:14
 tags:
 ---

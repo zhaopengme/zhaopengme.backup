@@ -1,7 +1,5 @@
 title: 无缘无故QQ粉钻
-id: 705
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-23 13:29:00
 tags:
 ---

@@ -1,7 +1,7 @@
 title: 几首曲子
 id: 316
 categories:
-  - web
+
 date: 2009-12-14 12:39:55
 tags:
 ---

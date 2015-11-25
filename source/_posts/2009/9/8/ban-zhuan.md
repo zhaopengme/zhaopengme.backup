@@ -1,7 +1,6 @@
 title: 搬砖
 id: 359
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-08 09:23:35
 tags:
 ---

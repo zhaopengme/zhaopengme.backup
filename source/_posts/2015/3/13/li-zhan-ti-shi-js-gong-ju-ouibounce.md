@@ -4,9 +4,7 @@ tags:
   - js
   - js工具包
 id: 935
-categories:
-  - web
-  - 框架推荐
+categories: 软件工具
 date: 2015-03-13 08:46:57
 ---
 

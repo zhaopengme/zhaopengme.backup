@@ -1,7 +1,6 @@
 title: 该做些什么啊？
 id: 609
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-10-11 14:31:00
 tags:
 ---

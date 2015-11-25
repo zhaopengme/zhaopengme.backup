@@ -1,7 +1,6 @@
 title: 工作生涯的小的插曲
 id: 473
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-08 00:27:00
 tags:
 ---

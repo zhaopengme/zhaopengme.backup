@@ -1,7 +1,6 @@
 title: 换皮
 id: 357
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-14 23:20:20
 tags:
 ---

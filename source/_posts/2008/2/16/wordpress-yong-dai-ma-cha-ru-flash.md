@@ -1,7 +1,5 @@
 title: wordpress用代码插入flash
-id: 712
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-16 02:47:00
 tags:
 ---

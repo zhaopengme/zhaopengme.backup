@@ -1,7 +1,5 @@
 title: 榆林学院网站新版出现了
-id: 644
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-31 15:34:00
 tags:
 ---

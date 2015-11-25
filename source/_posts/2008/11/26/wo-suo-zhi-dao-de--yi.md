@@ -1,7 +1,6 @@
 title: 我所知道的（一）
 id: 576
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:13:00
 tags:
 ---

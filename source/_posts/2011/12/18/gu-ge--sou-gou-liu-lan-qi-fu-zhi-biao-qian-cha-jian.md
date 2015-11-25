@@ -1,7 +1,7 @@
 title: 谷歌、搜狗浏览器复制标签插件
 id: 136
 categories:
-  - web
+
 date: 2011-12-18 21:37:54
 tags:
 ---

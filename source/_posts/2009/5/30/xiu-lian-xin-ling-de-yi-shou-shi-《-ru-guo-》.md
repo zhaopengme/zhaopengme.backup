@@ -1,7 +1,6 @@
 title: 修炼心灵的一首诗：《如果》
 id: 411
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-30 22:42:21
 tags:
 ---

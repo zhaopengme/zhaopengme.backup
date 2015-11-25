@@ -1,7 +1,6 @@
 title: jremind继续更新新版本
 id: 448
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-09 08:33:00
 tags:
 ---

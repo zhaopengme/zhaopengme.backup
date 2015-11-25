@@ -1,7 +1,6 @@
 title: 最苦闷的日子
 id: 256
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-05-09 21:49:42
 tags:
 ---

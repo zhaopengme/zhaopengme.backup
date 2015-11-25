@@ -1,7 +1,6 @@
 title: 做点啥事好点
 id: 330
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-11-20 05:52:26
 tags:
 ---

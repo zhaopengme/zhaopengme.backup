@@ -1,7 +1,5 @@
 title: 伟大的母亲
-id: 671
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-16 14:37:00
 tags:
 ---

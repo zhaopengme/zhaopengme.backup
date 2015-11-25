@@ -1,7 +1,5 @@
 title: 汉字的搞笑对话
-id: 708
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-16 18:06:00
 tags:
 ---

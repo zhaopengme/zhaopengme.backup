@@ -1,7 +1,5 @@
 title: 乱说
-id: 672
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-13 12:04:00
 tags:
 ---

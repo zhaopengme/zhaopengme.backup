@@ -1,7 +1,6 @@
 title: 如何让自己写的代码易维护？
 id: 123
-categories:
-  - java
+categories: java
 date: 2012-02-13 19:45:00
 tags:
 ---

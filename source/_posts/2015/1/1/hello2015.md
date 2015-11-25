@@ -1,7 +1,6 @@
 title: hello 2015
 id: 1059
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2015-01-01 00:09:30
 tags:
 ---

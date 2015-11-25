@@ -1,7 +1,6 @@
 title: 升级win8后的使用
 id: 109
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-03-12 00:22:16
 tags:
 ---

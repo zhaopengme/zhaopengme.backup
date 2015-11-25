@@ -1,7 +1,6 @@
 title: 郁郁闷闷的过
 id: 601
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-24 13:56:00
 tags:
 ---

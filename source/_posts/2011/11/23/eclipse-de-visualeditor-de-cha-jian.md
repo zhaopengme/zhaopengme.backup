@@ -1,7 +1,6 @@
 title: Eclipse的visual editor的插件
 id: 145
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2011-11-23 19:19:21
 tags:
 ---

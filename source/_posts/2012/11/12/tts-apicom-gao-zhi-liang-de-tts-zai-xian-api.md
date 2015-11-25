@@ -1,7 +1,6 @@
 title: TTS-API.com —— 高质量的 TTS 在线 API
 id: 35
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-11-12 15:00:05
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 8box播放器的引用
 id: 529
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-07 12:47:00
 tags:
 ---

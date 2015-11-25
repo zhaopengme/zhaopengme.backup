@@ -1,7 +1,6 @@
 title: TM2009我的选择
 id: 409
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-11 00:08:14
 tags:
 ---

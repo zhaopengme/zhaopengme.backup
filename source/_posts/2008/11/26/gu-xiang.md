@@ -1,7 +1,6 @@
 title: 故乡
 id: 589
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:49:00
 tags:
 ---

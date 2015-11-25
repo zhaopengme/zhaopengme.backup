@@ -1,7 +1,5 @@
 title: 整人游戏－色盲在线测试
-id: 715
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-13 14:15:00
 tags:
 ---

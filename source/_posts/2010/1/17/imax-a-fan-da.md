@@ -1,7 +1,6 @@
 title: imax阿凡达
 id: 301
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2010-01-17 02:05:29
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 预言家的苦恼
 id: 402
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-23 02:34:49
 tags:
 ---

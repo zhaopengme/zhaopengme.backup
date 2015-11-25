@@ -1,7 +1,6 @@
 title: 13个坏习惯让IT工作者中过劳
 id: 381
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-07-16 12:45:06
 tags:
 ---

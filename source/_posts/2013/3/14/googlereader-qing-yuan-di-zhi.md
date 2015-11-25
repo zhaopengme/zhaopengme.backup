@@ -1,7 +1,6 @@
 title: google reader请愿地址
 id: 883
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-03-14 17:45:47
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 杯具，深度被黑掉了
 id: 270
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-22 23:39:52
 tags:
 ---

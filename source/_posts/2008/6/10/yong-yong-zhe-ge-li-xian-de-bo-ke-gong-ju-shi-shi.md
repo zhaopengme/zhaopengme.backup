@@ -1,7 +1,5 @@
 title: 用用这个离线的博客工具试试
-id: 679
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-06-10 00:40:00
 tags:
 ---

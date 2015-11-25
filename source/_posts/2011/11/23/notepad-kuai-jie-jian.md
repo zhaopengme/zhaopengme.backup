@@ -1,7 +1,6 @@
 title: notepad++快捷键
 id: 146
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2011-11-23 12:57:23
 tags:
 ---

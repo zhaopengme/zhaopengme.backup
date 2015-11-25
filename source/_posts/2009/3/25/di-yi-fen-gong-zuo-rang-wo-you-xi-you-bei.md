@@ -1,7 +1,6 @@
 title: 第一份工作让我又喜又悲
 id: 480
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-03-25 14:22:00
 tags:
 ---

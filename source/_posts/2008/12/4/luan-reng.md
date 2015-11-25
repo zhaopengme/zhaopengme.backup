@@ -1,7 +1,6 @@
 title: 乱扔
 id: 556
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-04 13:58:00
 tags:
 ---

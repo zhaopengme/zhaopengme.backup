@@ -1,7 +1,6 @@
 title: 适合编程使用的字体
 id: 366
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-16 16:24:30
 tags:
 ---

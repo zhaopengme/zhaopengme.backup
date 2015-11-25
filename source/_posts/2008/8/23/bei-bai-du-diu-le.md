@@ -1,7 +1,5 @@
 title: 被百度丢了
-id: 650
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-23 08:38:00
 tags:
 ---

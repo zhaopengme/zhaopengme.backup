@@ -1,7 +1,6 @@
 title: 免费国产压缩软件-好压
 id: 336
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-11-06 01:38:42
 tags:
 ---

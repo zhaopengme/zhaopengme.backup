@@ -1,7 +1,6 @@
 title: 逃
 id: 608
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-10-16 14:17:00
 tags:
 ---

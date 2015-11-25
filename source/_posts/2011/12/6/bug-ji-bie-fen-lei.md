@@ -1,7 +1,6 @@
 title: BUG级别分类
 id: 141
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-12-06 09:19:39
 tags:
 ---

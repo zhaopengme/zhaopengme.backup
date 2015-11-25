@@ -1,7 +1,6 @@
 title: 这片土地
 id: 565
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:31:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 东京人挤车猛于虎
 id: 628
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-16 00:55:00
 tags:
 ---

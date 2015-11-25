@@ -1,7 +1,6 @@
 title: 囧样生活
 id: 368
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-15 15:57:48
 tags:
 ---

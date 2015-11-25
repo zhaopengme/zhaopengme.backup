@@ -1,7 +1,6 @@
 title: 域名到期更换域名
 id: 78
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-09-14 14:35:58
 tags:
 ---

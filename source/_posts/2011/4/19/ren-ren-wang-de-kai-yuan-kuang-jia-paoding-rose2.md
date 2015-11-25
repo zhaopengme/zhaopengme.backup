@@ -1,7 +1,7 @@
 title: 人人网的开源框架paoding-rose(2)
 id: 184
 categories:
-  - web
+
 date: 2011-04-19 01:30:16
 tags:
 ---

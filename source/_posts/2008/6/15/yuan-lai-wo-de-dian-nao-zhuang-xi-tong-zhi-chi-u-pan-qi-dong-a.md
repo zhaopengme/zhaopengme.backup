@@ -1,7 +1,5 @@
 title: 原来我的电脑装系统支持U盘启动啊！
-id: 678
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-06-15 04:51:00
 tags:
 ---

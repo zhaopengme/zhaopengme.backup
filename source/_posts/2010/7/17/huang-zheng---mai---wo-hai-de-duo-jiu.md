@@ -1,7 +1,6 @@
 title: 黄征 - 卖 -我还得多久?
 id: 246
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-07-17 22:50:00
 tags:
 ---

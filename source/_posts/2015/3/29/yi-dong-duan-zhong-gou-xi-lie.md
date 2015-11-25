@@ -1,10 +1,10 @@
 title: 移动端重构系列
 tags:
-  - web
+
   - 教程
 id: 981
 categories:
-  - web
+
 date: 2015-03-29 08:55:02
 ---
 

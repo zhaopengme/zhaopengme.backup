@@ -1,7 +1,5 @@
 title: liunux下php的懒人工具——xampp
-id: 654
-categories:
-  - 软件工具
+categories: 闲言碎语
 date: 2008-08-15 07:26:00
 tags:
 ---

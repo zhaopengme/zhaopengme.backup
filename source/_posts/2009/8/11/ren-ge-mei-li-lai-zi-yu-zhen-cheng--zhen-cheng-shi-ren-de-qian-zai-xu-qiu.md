@@ -1,7 +1,6 @@
 title: 人格魅力来自于真诚（真诚是人的潜在需求）
 id: 372
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-11 14:02:20
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 自己动手做绿色版的谷歌浏览器
 id: 493
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-01 21:25:00
 tags:
 ---

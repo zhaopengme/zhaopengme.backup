@@ -1,7 +1,6 @@
 title: 观
 id: 599
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:37:00
 tags:
 ---

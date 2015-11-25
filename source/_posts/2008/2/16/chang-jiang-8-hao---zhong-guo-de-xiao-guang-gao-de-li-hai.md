@@ -1,7 +1,5 @@
 title: 长江8号-中国的小广告的厉害
-id: 711
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-16 03:57:00
 tags:
 ---

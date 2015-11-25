@@ -1,7 +1,6 @@
 title: '学会改变态度[学会系列]'
 id: 352
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-19 18:23:18
 tags:
 ---

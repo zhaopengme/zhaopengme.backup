@@ -1,7 +1,6 @@
 title: 启动PostgreSql远程连接
 id: 70
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-09-29 12:40:05
 tags:
 ---
@@ -20,7 +19,7 @@ tags:
 > 1.修改PostgreSQL9.2datapostgresql.conf，将listen_addresses的值修改为'*',监听所有IP。如下：
 > > listen_addresses = '*'
 > > </br>
-> 
+>
 > 2.修改PostgreSQL9.2datapg_hba.conf，将注释着IPV4的127.0.0.1修改数据库服务器IP，如下：
 > > # TYPE DATABASE USER ADDRESS METHOD #IPv4 local connections: host all all 192.168.1.20/24 md5
 > > </br>

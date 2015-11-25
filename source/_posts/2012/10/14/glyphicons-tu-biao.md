@@ -1,7 +1,7 @@
 title: glyphicons图标
 id: 59
 categories:
-  - web
+
 date: 2012-10-14 12:40:06
 tags:
 ---

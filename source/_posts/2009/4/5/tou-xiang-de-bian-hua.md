@@ -1,7 +1,6 @@
 title: 头像的变化
 id: 476
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-05 19:26:00
 tags:
 ---

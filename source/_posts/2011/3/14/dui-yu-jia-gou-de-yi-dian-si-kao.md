@@ -1,7 +1,6 @@
 title: 对于架构的一点思考
 id: 198
-categories:
-  - java
+categories: java
 date: 2011-03-14 03:00:58
 tags:
 ---

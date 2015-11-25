@@ -1,7 +1,7 @@
 title: 今天又多活了一年
 id: 439
 categories:
-  - web
+
 date: 2009-05-13 05:43:00
 tags:
 ---

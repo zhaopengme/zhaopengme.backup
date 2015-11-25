@@ -1,7 +1,6 @@
 title: plsql常用设置与技巧
 id: 118
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-02 12:32:20
 tags:
 ---

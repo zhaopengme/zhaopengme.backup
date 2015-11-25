@@ -1,7 +1,6 @@
 title: 无眠呓语
 id: 575
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:15:00
 tags:
 ---

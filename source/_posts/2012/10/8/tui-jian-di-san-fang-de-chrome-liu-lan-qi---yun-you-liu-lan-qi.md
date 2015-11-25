@@ -1,7 +1,6 @@
 title: 推荐第三方的chrome浏览器-云游浏览器
 id: 64
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-08 17:20:05
 tags:
 ---

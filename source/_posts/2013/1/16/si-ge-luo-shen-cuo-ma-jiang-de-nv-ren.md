@@ -1,7 +1,6 @@
 title: 四个裸身搓麻将的女人
 id: 17
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-01-16 13:55:48
 tags:
 ---

@@ -1,7 +1,7 @@
 title: dojo中的懒加载和提前加载
 id: 225
 categories:
-  - web
+
 date: 2010-10-25 13:11:45
 tags:
 ---

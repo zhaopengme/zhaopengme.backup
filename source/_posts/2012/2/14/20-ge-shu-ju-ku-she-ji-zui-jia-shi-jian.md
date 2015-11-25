@@ -1,7 +1,6 @@
 title: 20个数据库设计最佳实践
 id: 122
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-02-14 19:00:00
 tags:
 ---

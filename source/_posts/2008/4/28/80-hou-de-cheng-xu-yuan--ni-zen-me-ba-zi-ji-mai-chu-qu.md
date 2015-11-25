@@ -1,7 +1,5 @@
 title: '80后的程序员,你怎么把自己买出去?'
-id: 692
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-04-28 08:21:00
 tags:
 ---

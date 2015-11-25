@@ -1,7 +1,7 @@
 title: for4未完工的主题
 id: 214
 categories:
-  - web
+
 date: 2010-11-13 23:48:23
 tags:
 ---

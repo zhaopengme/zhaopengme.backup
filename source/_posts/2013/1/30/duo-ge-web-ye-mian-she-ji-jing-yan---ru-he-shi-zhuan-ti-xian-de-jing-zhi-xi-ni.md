@@ -1,7 +1,7 @@
 title: 多个WEB页面设计经验-如何使专题显得精致细腻
 id: 888
 categories:
-  - web
+
 date: 2013-01-30 15:00:02
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 整点了，又是一天
 id: 356
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-17 00:10:34
 tags:
 ---

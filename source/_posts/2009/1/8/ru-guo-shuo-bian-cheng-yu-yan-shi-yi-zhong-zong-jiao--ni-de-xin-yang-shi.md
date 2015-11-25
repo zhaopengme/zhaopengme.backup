@@ -1,7 +1,6 @@
 title: 如果说编程语言是一种宗教，你的信仰是？
 id: 528
-categories:
-  - java
+categories: java
 date: 2009-01-08 13:39:00
 tags:
 ---

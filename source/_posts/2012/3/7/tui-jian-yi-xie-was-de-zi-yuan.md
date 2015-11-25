@@ -1,7 +1,7 @@
 title: 推荐一些was的资源
 id: 110
 categories:
-  - web
+
 date: 2012-03-07 18:50:00
 tags:
 ---

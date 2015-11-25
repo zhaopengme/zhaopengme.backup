@@ -1,7 +1,6 @@
 title: 在工作和生活之间获得平衡的15种方法！
 id: 371
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-08-11 16:03:02
 tags:
 ---

@@ -1,7 +1,5 @@
 title: 姐姐来了
-id: 648
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-27 15:10:00
 tags:
 ---

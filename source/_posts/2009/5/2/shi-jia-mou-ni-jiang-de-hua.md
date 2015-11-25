@@ -1,7 +1,6 @@
 title: 释迦牟尼讲的话
 id: 457
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-02 06:06:00
 tags:
 ---

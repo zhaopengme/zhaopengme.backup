@@ -1,7 +1,7 @@
 title: 基于bootstrap框架的wordpress主题pme-wp
 id: 98
 categories:
-  - web
+
 date: 2012-03-30 23:24:19
 tags:
 ---

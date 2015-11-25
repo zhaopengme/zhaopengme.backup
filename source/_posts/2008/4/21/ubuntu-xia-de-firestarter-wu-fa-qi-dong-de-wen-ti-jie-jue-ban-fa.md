@@ -1,7 +1,5 @@
 title: ubuntu 下的firestarter无法启动的问题解决办法
-id: 693
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-21 14:46:00
 tags:
 ---

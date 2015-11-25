@@ -1,7 +1,5 @@
 title: 宿舍终于拉上网线了
-id: 700
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-13 07:03:00
 tags:
 ---

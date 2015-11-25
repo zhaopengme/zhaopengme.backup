@@ -1,7 +1,6 @@
 title: 越狱终于出第四季了
 id: 642
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-03 16:24:00
 tags:
 ---

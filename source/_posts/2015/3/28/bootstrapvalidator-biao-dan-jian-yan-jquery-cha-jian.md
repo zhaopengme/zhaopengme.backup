@@ -5,9 +5,7 @@ tags:
   - javascript
   - js
   - js工具包
-id: 977
-categories:
-  - 框架推荐
+categories: 资料文档
 date: 2015-03-28 08:54:48
 ---
 

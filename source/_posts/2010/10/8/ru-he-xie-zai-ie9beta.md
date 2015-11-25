@@ -1,7 +1,6 @@
 title: 如何卸载ie9 beta
 id: 231
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-08 13:46:46
 tags:
 ---

@@ -1,7 +1,6 @@
 title: ie9打开的百度
 id: 275
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-17 09:30:22
 tags:
 ---

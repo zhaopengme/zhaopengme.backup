@@ -1,7 +1,6 @@
 title: “每天对着电脑4-6小时的人必看”之粉碎
 id: 115
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-03 18:05:00
 tags:
 ---

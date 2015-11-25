@@ -1,7 +1,6 @@
 title: “晚安”和“万安”，你会选择哪一个？
 id: 410
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-11 00:06:15
 tags:
 ---

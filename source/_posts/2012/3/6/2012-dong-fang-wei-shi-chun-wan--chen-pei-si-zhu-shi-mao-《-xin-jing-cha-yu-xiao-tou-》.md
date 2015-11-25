@@ -1,7 +1,6 @@
 title: 2012东方卫视春晚：陈佩斯朱时茂《新警察与小偷》
 id: 111
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-06 17:26:00
 tags:
 ---

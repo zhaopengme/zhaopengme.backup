@@ -1,7 +1,6 @@
 title: 渔童
 id: 415
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-29 04:30:41
 tags:
 ---

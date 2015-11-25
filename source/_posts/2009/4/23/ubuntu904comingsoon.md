@@ -1,7 +1,6 @@
 title: 'ubuntu9.04 coming soon!'
 id: 462
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-23 15:29:00
 tags:
 ---

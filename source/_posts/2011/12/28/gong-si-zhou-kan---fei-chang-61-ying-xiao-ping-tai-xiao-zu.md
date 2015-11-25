@@ -1,7 +1,6 @@
 title: 公司周刊-非常6+1—营销平台小组
 id: 133
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2011-12-28 11:19:36
 tags:
 ---

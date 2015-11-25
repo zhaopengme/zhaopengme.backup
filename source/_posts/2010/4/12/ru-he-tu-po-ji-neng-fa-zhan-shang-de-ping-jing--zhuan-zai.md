@@ -1,7 +1,6 @@
 title: '如何突破技能发展上的瓶颈[转载]'
 id: 260
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-04-12 12:43:33
 tags:
 ---

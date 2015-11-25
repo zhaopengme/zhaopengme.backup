@@ -1,7 +1,6 @@
 title: 打算买个单反玩玩
 id: 196
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-20 13:24:03
 tags:
 ---

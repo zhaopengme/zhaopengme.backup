@@ -1,7 +1,7 @@
 title: 多个WEB页面设计经验-移动端APP设计指南
 id: 892
 categories:
-  - web
+
 date: 2013-01-27 15:00:02
 tags:
 ---

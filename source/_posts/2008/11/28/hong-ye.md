@@ -1,7 +1,6 @@
 title: 红叶
 id: 563
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-28 13:16:00
 tags:
 ---

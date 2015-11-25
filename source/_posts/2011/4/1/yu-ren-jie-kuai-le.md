@@ -1,7 +1,6 @@
 title: 愚人节快乐
 id: 188
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-04-01 00:06:05
 tags:
 ---

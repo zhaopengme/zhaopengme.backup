@@ -1,7 +1,6 @@
 title: spring定时器小结【2】-quartz的实现
 id: 243
-categories:
-  - java
+categories: java
 date: 2010-07-22 20:10:19
 tags:
 ---

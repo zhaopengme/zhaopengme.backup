@@ -1,7 +1,6 @@
 title: 榆林学院50年校庆的日子
 id: 627
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-16 17:46:00
 tags:
 ---

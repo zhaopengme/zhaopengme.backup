@@ -1,7 +1,6 @@
 title: 我所知道的（三）
 id: 578
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:11:00
 tags:
 ---

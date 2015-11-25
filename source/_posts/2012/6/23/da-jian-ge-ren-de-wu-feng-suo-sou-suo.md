@@ -1,7 +1,6 @@
 title: 搭建个人的无封锁搜索
 id: 95
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-06-23 14:54:57
 tags:
 ---

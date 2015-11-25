@@ -1,7 +1,5 @@
 title: 100分－这就叫懒惰
-id: 706
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-20 01:58:00
 tags:
 ---

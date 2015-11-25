@@ -1,7 +1,5 @@
 title: 百度游戏娱乐平台-百度的又一个新东西
-id: 686
-categories:
-  - web
+categories: 闲言碎语
 date: 2008-05-11 05:37:00
 tags:
 ---

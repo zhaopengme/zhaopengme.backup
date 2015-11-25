@@ -1,7 +1,6 @@
 title: 为什么要买好电脑
 id: 285
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-05 06:15:41
 tags:
 ---

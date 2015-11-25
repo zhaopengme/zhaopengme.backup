@@ -1,7 +1,6 @@
 title: 'If you had to pick one ! which one would you choose ?'
 id: 553
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-10 04:10:00
 tags:
 ---

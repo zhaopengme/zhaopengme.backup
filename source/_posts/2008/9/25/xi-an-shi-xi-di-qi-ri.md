@@ -1,7 +1,6 @@
 title: 西安实习第七日
 id: 618
-categories:
-  - java
+categories: java
 date: 2008-09-25 00:07:00
 tags:
 ---

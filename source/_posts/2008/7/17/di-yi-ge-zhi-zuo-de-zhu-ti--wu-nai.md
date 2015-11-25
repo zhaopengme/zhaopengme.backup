@@ -1,7 +1,5 @@
 title: 第一个制作的主题——无奈
-id: 670
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-17 23:46:00
 tags:
 ---

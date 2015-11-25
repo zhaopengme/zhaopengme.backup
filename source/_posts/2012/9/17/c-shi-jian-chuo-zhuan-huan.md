@@ -1,7 +1,6 @@
 title: 'c#时间戳转换'
 id: 77
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-09-17 17:28:22
 tags:
 ---

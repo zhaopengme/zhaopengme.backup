@@ -1,7 +1,6 @@
 title: jremind版本的定义和图标的修改
 id: 449
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-05-09 07:48:00
 tags:
 ---

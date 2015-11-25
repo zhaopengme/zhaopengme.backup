@@ -1,7 +1,6 @@
 title: 让自己去做些什么
 id: 219
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-11-03 00:13:42
 tags:
 ---

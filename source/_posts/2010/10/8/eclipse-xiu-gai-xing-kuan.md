@@ -1,7 +1,6 @@
 title: eclipse修改行宽
 id: 228
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-08 22:14:06
 tags:
 ---

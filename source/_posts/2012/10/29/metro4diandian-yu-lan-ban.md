@@ -1,7 +1,7 @@
 title: metro4diandian预览版
 id: 43
 categories:
-  - web
+
 date: 2012-10-29 13:32:20
 tags:
 ---

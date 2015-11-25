@@ -1,7 +1,5 @@
 title: 我将椅子拿走了
-id: 707
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-18 10:35:00
 tags:
 ---

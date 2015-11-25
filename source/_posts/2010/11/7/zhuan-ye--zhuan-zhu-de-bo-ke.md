@@ -1,7 +1,6 @@
 title: 专业、专注的博客
 id: 217
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-11-07 04:51:16
 tags:
 ---

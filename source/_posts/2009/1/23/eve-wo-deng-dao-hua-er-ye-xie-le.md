@@ -1,7 +1,6 @@
 title: 'Eve,我等到花儿也谢了。。。'
 id: 515
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-23 05:36:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 食难下咽的饭
 id: 398
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-30 13:07:17
 tags:
 ---

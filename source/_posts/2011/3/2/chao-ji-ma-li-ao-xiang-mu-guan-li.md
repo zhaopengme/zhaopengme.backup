@@ -1,7 +1,6 @@
 title: 超级玛丽奥项目管理
 id: 202
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2011-03-02 21:18:34
 tags:
 ---

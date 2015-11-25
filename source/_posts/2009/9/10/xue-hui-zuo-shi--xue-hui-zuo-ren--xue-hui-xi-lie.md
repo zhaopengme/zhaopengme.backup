@@ -1,7 +1,6 @@
 title: '学会做事，学会做人[学会系列]'
 id: 358
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-10 01:55:00
 tags:
 ---

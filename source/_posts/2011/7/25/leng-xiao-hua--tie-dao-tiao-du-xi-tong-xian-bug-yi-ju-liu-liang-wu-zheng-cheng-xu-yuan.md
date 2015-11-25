@@ -1,7 +1,6 @@
 title: 【冷笑话】铁道调度系统现BUG，已拘留两无证程序员
 id: 174
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-07-25 23:56:54
 tags:
 ---

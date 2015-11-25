@@ -1,7 +1,6 @@
 title: paul
 id: 412
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-30 18:31:01
 tags:
 ---

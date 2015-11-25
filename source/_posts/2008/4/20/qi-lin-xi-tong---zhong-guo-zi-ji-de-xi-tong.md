@@ -1,7 +1,5 @@
 title: 麒麟系统-中国自己的系统
-id: 694
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-20 23:44:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: mythine这是一个错误
 id: 401
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-23 02:50:20
 tags:
 ---

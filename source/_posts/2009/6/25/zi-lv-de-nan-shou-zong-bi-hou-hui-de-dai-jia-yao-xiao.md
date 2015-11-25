@@ -1,7 +1,6 @@
 title: 自律的难受总比后悔的代价要小
 id: 400
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-25 21:06:19
 tags:
 ---

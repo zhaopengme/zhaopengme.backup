@@ -1,7 +1,6 @@
 title: '闹钟alarm[视频]'
 id: 266
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-23 20:11:25
 tags:
 ---

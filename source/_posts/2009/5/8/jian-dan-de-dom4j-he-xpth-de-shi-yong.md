@@ -1,7 +1,6 @@
 title: 简单的dom4j和xpth的使用
 id: 453
-categories:
-  - java
+categories: java
 date: 2009-05-08 03:53:00
 tags:
 ---

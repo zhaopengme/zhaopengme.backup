@@ -1,7 +1,6 @@
 title: 这个地方漂亮啊！
 id: 182
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-05-06 09:02:08
 tags:
 ---

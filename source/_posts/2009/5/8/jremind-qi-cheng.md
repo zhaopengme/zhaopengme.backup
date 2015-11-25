@@ -1,7 +1,6 @@
 title: jremind启程
 id: 452
-categories:
-  - java
+categories: java
 date: 2009-05-08 21:44:00
 tags:
 ---

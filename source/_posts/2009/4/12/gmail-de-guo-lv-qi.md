@@ -1,7 +1,6 @@
 title: gmail的过滤器
 id: 468
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-12 06:53:00
 tags:
 ---

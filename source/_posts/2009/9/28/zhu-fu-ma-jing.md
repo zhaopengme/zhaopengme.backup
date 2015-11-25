@@ -1,7 +1,6 @@
 title: 祝福马京
 id: 349
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-28 12:54:51
 tags:
 ---

@@ -1,7 +1,6 @@
 title: c++学习先到这里了
 id: 267
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-03-23 01:41:49
 tags:
 ---

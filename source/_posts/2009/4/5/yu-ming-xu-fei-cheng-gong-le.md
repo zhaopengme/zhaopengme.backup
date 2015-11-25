@@ -1,7 +1,6 @@
 title: 域名续费成功了
 id: 477
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-05 01:15:00
 tags:
 ---

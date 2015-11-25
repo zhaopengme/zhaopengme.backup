@@ -1,7 +1,6 @@
 title: ssh连接linux中文出现乱码
 id: 241
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-08-06 18:03:40
 tags:
 ---

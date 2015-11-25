@@ -1,7 +1,5 @@
 title: 又地震了
-id: 658
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-06 10:05:00
 tags:
 ---

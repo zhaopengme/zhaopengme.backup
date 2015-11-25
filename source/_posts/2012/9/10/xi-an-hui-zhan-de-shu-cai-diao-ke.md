@@ -1,7 +1,6 @@
 title: 西安会展的蔬菜雕刻
 id: 79
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-09-10 17:48:23
 tags:
 ---

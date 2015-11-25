@@ -1,7 +1,6 @@
 title: xp自带录音机无法使用的原因
 id: 500
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-19 12:04:00
 tags:
 ---

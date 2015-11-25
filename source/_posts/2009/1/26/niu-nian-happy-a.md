@@ -1,7 +1,6 @@
 title: 牛年happy啊！
 id: 512
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-26 18:12:00
 tags:
 ---

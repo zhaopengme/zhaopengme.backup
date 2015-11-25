@@ -1,7 +1,6 @@
 title: 偶的新家具
 id: 387
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-11 19:55:39
 tags:
 ---

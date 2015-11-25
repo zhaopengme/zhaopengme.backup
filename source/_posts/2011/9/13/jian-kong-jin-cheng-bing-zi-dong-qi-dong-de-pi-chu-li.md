@@ -1,7 +1,6 @@
 title: 监控进程并自动启动的批处理
 id: 167
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-09-13 22:04:20
 tags:
 ---

@@ -1,7 +1,6 @@
 title: ModifyPath 软件默认安装路径随意改
 id: 428
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-05-18 23:58:54
 tags:
 ---

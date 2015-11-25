@@ -1,7 +1,6 @@
 title: 走过来，走过去
 id: 373
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-07 21:13:14
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 郁闷的一天
 id: 612
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-10-08 06:39:00
 tags:
 ---

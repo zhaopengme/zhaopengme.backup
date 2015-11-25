@@ -1,7 +1,6 @@
 title: 残奥会开幕式
 id: 637
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-07 14:45:00
 tags:
 ---

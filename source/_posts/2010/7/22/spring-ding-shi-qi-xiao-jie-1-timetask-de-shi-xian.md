@@ -1,7 +1,6 @@
 title: spring定时器小结【1】-TimeTask的实现
 id: 244
-categories:
-  - java
+categories: java
 date: 2010-07-22 19:48:38
 tags:
 ---

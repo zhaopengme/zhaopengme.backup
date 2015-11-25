@@ -1,7 +1,7 @@
 title: vmware安装linux、oralce笔记
 id: 238
 categories:
-  - web
+
 date: 2010-08-09 12:59:21
 tags:
 ---

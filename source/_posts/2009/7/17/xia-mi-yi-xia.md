@@ -1,7 +1,6 @@
 title: 虾米一下
 id: 379
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-17 20:42:59
 tags:
 ---

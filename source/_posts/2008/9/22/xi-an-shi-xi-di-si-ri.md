@@ -1,7 +1,6 @@
 title: 西安实习第四日
 id: 621
-categories:
-  - java
+categories: java
 date: 2008-09-22 00:01:00
 tags:
 ---

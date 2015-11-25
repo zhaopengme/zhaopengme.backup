@@ -1,7 +1,6 @@
 title: 2010年前的愿望
 id: 313
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-12-18 19:00:25
 tags:
 ---

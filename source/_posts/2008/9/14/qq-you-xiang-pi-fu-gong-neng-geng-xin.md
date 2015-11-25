@@ -1,7 +1,6 @@
 title: qq邮箱皮肤功能更新
 id: 630
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-14 08:30:00
 tags:
 ---

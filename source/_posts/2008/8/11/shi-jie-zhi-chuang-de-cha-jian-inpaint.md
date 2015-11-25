@@ -1,7 +1,5 @@
 title: 世界之窗的插件——inpaint
-id: 655
-categories:
-  - 软件工具
+categories: 闲言碎语
 date: 2008-08-11 05:30:00
 tags:
 ---

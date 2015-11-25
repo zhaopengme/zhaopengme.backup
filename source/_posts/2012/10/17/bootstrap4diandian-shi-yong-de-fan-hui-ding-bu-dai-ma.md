@@ -1,7 +1,7 @@
 title: bootstrap4diandian使用的返回顶部代码
 id: 52
 categories:
-  - web
+
 date: 2012-10-17 15:00:06
 tags:
 ---

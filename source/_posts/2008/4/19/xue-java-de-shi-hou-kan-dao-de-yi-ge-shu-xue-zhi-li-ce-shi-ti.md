@@ -1,7 +1,5 @@
 title: 学java的时候看到的一个数学智力测试题
-id: 695
-categories:
-  - java
+categories: java
 date: 2008-04-19 02:54:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 好运气，又是一个天上掉馅饼的事
 id: 467
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-15 21:07:00
 tags:
 ---

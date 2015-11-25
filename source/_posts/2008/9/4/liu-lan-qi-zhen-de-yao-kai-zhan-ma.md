@@ -1,7 +1,7 @@
 title: 浏览器真的要开战吗
 id: 641
 categories:
-  - web
+
 date: 2008-09-04 15:14:00
 tags:
 ---

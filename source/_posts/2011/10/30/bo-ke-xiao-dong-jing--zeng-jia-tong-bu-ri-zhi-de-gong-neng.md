@@ -1,7 +1,6 @@
 title: 博客小动静，增加同步日志的功能
 id: 164
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-10-30 03:42:02
 tags:
 ---

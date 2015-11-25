@@ -1,7 +1,7 @@
 title: 博客模板定型
 id: 470
 categories:
-  - web
+
 date: 2009-04-10 07:22:00
 tags:
 ---

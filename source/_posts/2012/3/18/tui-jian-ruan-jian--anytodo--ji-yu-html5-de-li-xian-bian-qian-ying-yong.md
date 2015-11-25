@@ -1,7 +1,7 @@
 title: 推荐软件-Anytodo - 基于html5的离线便签应用
 id: 104
 categories:
-  - web
+
 date: 2012-03-18 22:57:54
 tags:
 ---

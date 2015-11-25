@@ -1,7 +1,5 @@
 title: 终于打完仙剑4了
-id: 704
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-25 12:59:00
 tags:
 ---

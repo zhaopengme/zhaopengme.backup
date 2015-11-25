@@ -1,7 +1,6 @@
 title: 上和下的工作方法
 id: 407
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-06-14 04:15:12
 tags:
 ---

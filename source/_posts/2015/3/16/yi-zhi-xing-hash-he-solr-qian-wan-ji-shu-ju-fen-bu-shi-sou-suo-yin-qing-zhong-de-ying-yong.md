@@ -8,8 +8,7 @@ tags:
   - 架构
   - 海量
 id: 944
-categories:
-  - java
+categories: java
 date: 2015-03-16 08:50:07
 ---
 

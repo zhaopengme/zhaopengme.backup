@@ -1,7 +1,6 @@
 title: xml和字符串的转换
 id: 392
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-06 18:18:54
 tags:
 ---

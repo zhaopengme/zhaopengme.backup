@@ -1,7 +1,6 @@
 title: 火红火红的水
 id: 551
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-10 04:31:00
 tags:
 ---

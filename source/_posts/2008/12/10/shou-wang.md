@@ -1,7 +1,6 @@
 title: 守望
 id: 554
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-10 03:58:00
 tags:
 ---

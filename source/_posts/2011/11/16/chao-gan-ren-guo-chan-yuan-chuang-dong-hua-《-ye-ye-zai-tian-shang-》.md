@@ -1,7 +1,6 @@
 title: 超感人国产原创动画《爷爷在天上》
 id: 153
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-11-16 18:38:41
 tags:
 ---

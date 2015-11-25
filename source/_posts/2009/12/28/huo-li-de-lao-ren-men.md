@@ -1,7 +1,6 @@
 title: 活力的老人们
 id: 306
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-28 21:44:27
 tags:
 ---

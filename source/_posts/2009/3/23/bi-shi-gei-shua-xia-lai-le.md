@@ -1,7 +1,6 @@
 title: 笔试给刷下来了
 id: 483
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-23 09:17:00
 tags:
 ---

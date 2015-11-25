@@ -1,7 +1,6 @@
 title: 今天开始放假了
 id: 631
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-12 14:21:00
 tags:
 ---

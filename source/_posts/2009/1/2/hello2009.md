@@ -1,7 +1,6 @@
 title: Hello 2009
 id: 533
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-02 15:16:00
 tags:
 ---

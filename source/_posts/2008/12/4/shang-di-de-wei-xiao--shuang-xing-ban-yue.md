@@ -1,7 +1,6 @@
 title: 上帝的微笑——双星伴月
 id: 555
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-04 14:21:00
 tags:
 ---

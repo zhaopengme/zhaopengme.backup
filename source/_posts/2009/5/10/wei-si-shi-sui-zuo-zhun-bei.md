@@ -1,7 +1,6 @@
 title: 为四十岁做准备
 id: 445
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-10 05:59:00
 tags:
 ---

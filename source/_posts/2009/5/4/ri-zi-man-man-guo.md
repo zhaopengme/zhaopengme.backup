@@ -1,7 +1,6 @@
 title: 日子慢慢过
 id: 456
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-04 05:07:00
 tags:
 ---

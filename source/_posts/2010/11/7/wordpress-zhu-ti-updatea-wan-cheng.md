@@ -1,7 +1,7 @@
 title: wordpress主题updateA完成
 id: 218
 categories:
-  - web
+
 date: 2010-11-07 01:34:36
 tags:
 ---

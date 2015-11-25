@@ -1,7 +1,6 @@
 title: 软件博弈-软件迭代开发
 id: 185
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2011-04-15 09:18:41
 tags:
 ---

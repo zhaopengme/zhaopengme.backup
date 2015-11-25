@@ -1,7 +1,6 @@
 title: 关于爱情
 id: 590
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:49:00
 tags:
 ---

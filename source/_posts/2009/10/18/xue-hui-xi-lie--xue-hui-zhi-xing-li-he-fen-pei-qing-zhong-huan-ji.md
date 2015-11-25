@@ -1,7 +1,6 @@
 title: '[学会系列]学会执行力和分配轻重缓急'
 id: 340
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-18 12:10:47
 tags:
 ---

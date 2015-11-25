@@ -1,7 +1,5 @@
 title: 差点升级失败
-id: 675
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-06-24 23:27:00
 tags:
 ---

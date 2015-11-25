@@ -1,7 +1,6 @@
 title: QQ到底要做什么
 id: 296
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-01-26 00:14:07
 tags:
 ---

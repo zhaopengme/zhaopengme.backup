@@ -1,7 +1,6 @@
 title: 博客又一次的搬家了
 id: 438
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-13 23:32:39
 tags:
 ---

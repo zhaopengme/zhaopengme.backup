@@ -1,7 +1,6 @@
 title: linux停止某个进程的脚本
 id: 27
-categories:
-  - java
+categories: java
 date: 2012-12-12 15:44:13
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 项目经理必须的能力
 id: 433
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-05-16 01:08:46
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 1.6QQ拼音输入的亮点——相框
 id: 537
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-01 13:18:00
 tags:
 ---

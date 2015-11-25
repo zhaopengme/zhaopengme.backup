@@ -1,7 +1,6 @@
 title: 上线出现的问题和解决办法
 id: 383
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-13 08:43:20
 tags:
 ---

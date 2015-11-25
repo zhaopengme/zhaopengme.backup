@@ -1,7 +1,6 @@
 title: java删除文件包含子文件
 id: 604
-categories:
-  - java
+categories: java
 date: 2008-11-01 11:32:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 玩游戏，玩生活
 id: 639
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-06 18:00:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 5.1三对新人磊子、子鹏和同桌
 id: 724
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-04-30 14:28:00
 tags:
 ---

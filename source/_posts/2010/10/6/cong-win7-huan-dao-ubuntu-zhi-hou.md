@@ -1,7 +1,6 @@
 title: 从win7换到ubuntu之后
 id: 232
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-10-06 18:26:39
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 很有心境的话
 id: 262
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-04-08 01:13:37
 tags:
 ---

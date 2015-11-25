@@ -1,7 +1,6 @@
 title: 宝鸡的一天
 id: 190
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-30 00:03:11
 tags:
 ---

@@ -3,8 +3,7 @@ tags:
   - markdown
   - 编辑器
 id: 957
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2015-03-21 08:52:46
 ---
 

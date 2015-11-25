@@ -1,7 +1,6 @@
 title: 可爱的河马or牛牛
 id: 516
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-23 05:31:00
 tags:
 ---

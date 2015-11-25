@@ -1,7 +1,7 @@
 title: 几种比较常用的色彩值
 id: 63
 categories:
-  - web
+
 date: 2012-10-12 12:00:04
 tags:
 ---

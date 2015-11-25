@@ -1,7 +1,6 @@
 title: 强势推荐ANT小蚂蚁
 id: 83
-categories:
-  - java
+categories: java
 date: 2012-08-01 23:55:53
 tags:
 ---

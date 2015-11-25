@@ -1,7 +1,6 @@
 title: ubuntu9.4安装上了
 id: 461
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-24 22:14:00
 tags:
 ---

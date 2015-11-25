@@ -1,7 +1,6 @@
 title: QQ大更新
 id: 374
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-01 04:20:24
 tags:
 ---

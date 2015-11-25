@@ -1,7 +1,6 @@
 title: 我的一周生活详细列表
 id: 364
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-08-23 15:55:03
 tags:
 ---

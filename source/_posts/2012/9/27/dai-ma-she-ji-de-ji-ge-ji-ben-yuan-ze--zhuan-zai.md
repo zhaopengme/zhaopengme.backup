@@ -1,7 +1,6 @@
 title: 代码设计的几个基本原则【转载】
 id: 73
-categories:
-  - java
+categories: java
 date: 2012-09-27 23:53:00
 tags:
 ---

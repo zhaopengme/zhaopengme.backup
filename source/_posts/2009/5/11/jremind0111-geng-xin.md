@@ -1,7 +1,6 @@
 title: jremind 0.1.1.1更新
 id: 444
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-11 02:07:00
 tags:
 ---

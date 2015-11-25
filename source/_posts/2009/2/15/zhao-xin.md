@@ -1,7 +1,6 @@
 title: 找心
 id: 501
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-15 07:52:00
 tags:
 ---

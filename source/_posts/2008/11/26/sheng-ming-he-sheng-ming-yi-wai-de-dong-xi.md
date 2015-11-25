@@ -1,7 +1,6 @@
 title: 生命和生命以外的东西
 id: 594
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:42:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 冬天的路
 id: 552
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-10 04:24:00
 tags:
 ---

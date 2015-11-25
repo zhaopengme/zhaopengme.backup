@@ -1,7 +1,6 @@
 title: 我不是宅男
 id: 367
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-15 17:29:34
 tags:
 ---

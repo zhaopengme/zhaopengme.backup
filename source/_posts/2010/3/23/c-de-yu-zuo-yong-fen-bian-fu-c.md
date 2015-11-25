@@ -1,7 +1,6 @@
 title: 'C++的域作用分辨符[c++]'
 id: 268
-categories:
-  - java
+categories: java
 date: 2010-03-23 01:35:42
 tags:
 ---

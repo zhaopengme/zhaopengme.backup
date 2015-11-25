@@ -1,7 +1,6 @@
 title: 软件版本号的知识
 id: 450
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-05-09 07:43:00
 tags:
 ---

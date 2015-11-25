@@ -1,7 +1,6 @@
 title: 西安实习第八日
 id: 617
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-26 00:09:00
 tags:
 ---

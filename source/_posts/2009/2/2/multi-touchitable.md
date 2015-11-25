@@ -1,7 +1,6 @@
 title: Multi-Touch iTable
 id: 510
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-02 12:40:00
 tags:
 ---

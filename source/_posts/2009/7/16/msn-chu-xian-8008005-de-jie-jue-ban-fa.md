@@ -1,7 +1,6 @@
 title: msn出现8008005的解决办法
 id: 380
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-16 13:31:01
 tags:
 ---

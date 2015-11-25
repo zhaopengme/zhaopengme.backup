@@ -1,7 +1,6 @@
 title: '学会蛰伏[学会系列]'
 id: 344
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-06 05:06:32
 tags:
 ---

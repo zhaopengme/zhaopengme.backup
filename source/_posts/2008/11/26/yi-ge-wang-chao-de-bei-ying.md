@@ -1,7 +1,6 @@
 title: 一个王朝的背影
 id: 570
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:22:00
 tags:
 ---

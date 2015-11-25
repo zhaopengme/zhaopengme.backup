@@ -1,7 +1,6 @@
 title: 我在项目中的笔记3
 id: 200
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-11 09:30:05
 tags:
 ---

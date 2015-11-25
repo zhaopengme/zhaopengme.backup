@@ -1,7 +1,7 @@
 title: bootstrap for diandian
 id: 66
 categories:
-  - web
+
 date: 2012-10-06 07:03:32
 tags:
 ---

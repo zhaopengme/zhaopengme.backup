@@ -1,7 +1,6 @@
 title: 60年的国庆
 id: 348
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-01 12:13:43
 tags:
 ---

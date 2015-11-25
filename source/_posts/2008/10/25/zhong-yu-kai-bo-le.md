@@ -1,7 +1,6 @@
 title: 终于开博了
 id: 605
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-10-25 12:48:00
 tags:
 ---

@@ -1,7 +1,5 @@
 title: 找回你自己的理想-理想服务者
-id: 696
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-18 01:57:00
 tags:
 ---

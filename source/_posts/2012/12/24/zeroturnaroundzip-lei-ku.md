@@ -1,7 +1,6 @@
 title: ZeroTurnaround ZIP类库
 id: 23
-categories:
-  - java
+categories: java
 date: 2012-12-24 15:00:04
 tags:
 ---

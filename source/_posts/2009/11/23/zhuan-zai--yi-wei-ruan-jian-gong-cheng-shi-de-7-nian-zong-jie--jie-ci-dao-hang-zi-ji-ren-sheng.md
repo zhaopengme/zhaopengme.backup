@@ -1,7 +1,6 @@
 title: '转载：一位软件工程师的7年总结:借此导航自己人生'
 id: 328
-categories:
-  - java
+categories: java
 date: 2009-11-23 18:46:51
 tags:
 ---

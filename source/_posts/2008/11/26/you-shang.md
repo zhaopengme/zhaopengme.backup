@@ -1,7 +1,6 @@
 title: 忧伤
 id: 569
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:23:00
 tags:
 ---

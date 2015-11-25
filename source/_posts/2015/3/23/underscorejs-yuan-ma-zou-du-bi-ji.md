@@ -5,10 +5,7 @@ tags:
   - js工具包
   - underscorejs
 id: 963
-categories:
-  - web
-  - 框架推荐
-  - 网文收藏
+categories: 软件工具
 date: 2015-03-23 08:53:32
 ---
 

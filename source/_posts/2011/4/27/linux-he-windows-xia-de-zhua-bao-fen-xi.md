@@ -1,7 +1,6 @@
 title: linux和windows下的抓包分析
 id: 183
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-04-27 01:15:55
 tags:
 ---

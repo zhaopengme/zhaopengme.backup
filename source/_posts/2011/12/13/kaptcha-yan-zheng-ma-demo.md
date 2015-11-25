@@ -1,7 +1,6 @@
 title: kaptcha验证码Demo
 id: 138
-categories:
-  - java
+categories: java
 date: 2011-12-13 00:50:18
 tags:
 ---

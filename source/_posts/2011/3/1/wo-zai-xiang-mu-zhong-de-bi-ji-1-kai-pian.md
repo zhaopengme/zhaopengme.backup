@@ -1,7 +1,6 @@
 title: 我在项目中的笔记1【开篇】
 id: 203
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-01 21:24:10
 tags:
 ---

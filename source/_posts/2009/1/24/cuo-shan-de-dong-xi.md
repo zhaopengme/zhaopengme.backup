@@ -1,7 +1,6 @@
 title: 错删的东西
 id: 513
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-24 07:32:00
 tags:
 ---

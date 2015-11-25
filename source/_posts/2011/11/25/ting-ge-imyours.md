@@ -1,7 +1,6 @@
 title: 听歌 Im Yours
 id: 144
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2011-11-25 13:05:43
 tags:
 ---

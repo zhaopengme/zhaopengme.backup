@@ -1,7 +1,5 @@
 title: 天气不太好啊！看日全食有点问题
-id: 663
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-01 23:40:00
 tags:
 ---

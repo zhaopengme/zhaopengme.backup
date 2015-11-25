@@ -1,7 +1,6 @@
 title: 祝爷爷寿比南山
 id: 237
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-08-11 15:30:34
 tags:
 ---

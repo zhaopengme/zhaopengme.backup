@@ -1,7 +1,7 @@
 title: 未来的浏览器=操作系统
 id: 524
 categories:
-  - web
+
 date: 2009-01-11 08:43:00
 tags:
 ---

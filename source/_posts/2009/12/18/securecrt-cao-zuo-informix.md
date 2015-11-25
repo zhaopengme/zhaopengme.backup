@@ -1,7 +1,6 @@
 title: SecureCRT操作informix
 id: 312
-categories:
-  - java
+categories: java
 date: 2009-12-18 21:03:53
 tags:
 ---

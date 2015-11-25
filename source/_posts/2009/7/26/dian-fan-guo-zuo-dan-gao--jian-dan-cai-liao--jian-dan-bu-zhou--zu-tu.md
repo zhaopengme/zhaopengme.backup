@@ -1,7 +1,6 @@
 title: 电饭锅做蛋糕！简单材料、简单步骤！（组图）
 id: 376
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-26 13:45:42
 tags:
 ---

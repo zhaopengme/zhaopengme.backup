@@ -1,7 +1,6 @@
 title: 重开
 id: 242
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-08-05 12:27:59
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 《没有任何借口》竟然是一本伪书
 id: 420
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-22 14:54:50
 tags:
 ---

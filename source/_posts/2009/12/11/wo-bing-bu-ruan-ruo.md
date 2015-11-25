@@ -1,7 +1,6 @@
 title: 我并不软弱
 id: 319
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-11 02:38:51
 tags:
 ---

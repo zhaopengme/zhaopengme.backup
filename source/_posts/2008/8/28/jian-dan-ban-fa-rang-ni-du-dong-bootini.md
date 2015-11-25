@@ -1,7 +1,5 @@
 title: 简单办法让你读懂boot.ini
-id: 646
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-28 01:53:00
 tags:
 ---

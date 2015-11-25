@@ -1,7 +1,6 @@
 title: 让java web支持cors
 id: 93
-categories:
-  - java
+categories: java
 date: 2012-07-01 23:52:42
 tags:
 ---

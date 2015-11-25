@@ -1,7 +1,6 @@
 title: 更换域名
 id: 226
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-25 01:52:22
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 最常用的100个ClassName集合
 id: 50
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-18 15:00:04
 tags:
 ---

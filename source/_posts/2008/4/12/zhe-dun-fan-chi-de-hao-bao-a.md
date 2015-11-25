@@ -1,7 +1,5 @@
 title: '这顿饭吃的好饱啊!'
-id: 701
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-12 10:22:00
 tags:
 ---

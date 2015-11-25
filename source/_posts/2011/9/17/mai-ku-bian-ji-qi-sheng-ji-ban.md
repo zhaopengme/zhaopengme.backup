@@ -1,7 +1,7 @@
 title: 麦库编辑器升级版
 id: 166
 categories:
-  - web
+
 date: 2011-09-17 01:15:11
 tags:
 ---

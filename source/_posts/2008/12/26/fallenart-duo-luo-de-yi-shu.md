@@ -1,7 +1,6 @@
 title: Fallen Art 堕落的艺术
 id: 539
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2008-12-26 13:28:00
 tags:
 ---

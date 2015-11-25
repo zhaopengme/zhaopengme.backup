@@ -1,7 +1,6 @@
 title: 仓促的结果
 id: 351
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-24 00:19:10
 tags:
 ---

@@ -1,7 +1,7 @@
 title: metro4diandian更新
 id: 22
 categories:
-  - web
+
 date: 2012-12-28 12:55:01
 tags:
 ---

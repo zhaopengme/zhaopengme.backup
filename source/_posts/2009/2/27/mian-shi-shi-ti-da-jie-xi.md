@@ -1,7 +1,6 @@
 title: 面试试题大解析
 id: 495
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-02-27 13:34:00
 tags:
 ---

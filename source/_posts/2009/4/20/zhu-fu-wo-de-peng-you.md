@@ -1,7 +1,6 @@
 title: 祝福我的朋友
 id: 465
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-20 05:10:00
 tags:
 ---

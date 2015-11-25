@@ -1,7 +1,6 @@
 title: 不错的系统进程监视软件——ProcessMonitor
 id: 504
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-02-09 11:26:00
 tags:
 ---

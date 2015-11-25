@@ -1,7 +1,6 @@
 title: 软件电脑分类整理
 id: 278
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2010-03-13 03:44:23
 tags:
 ---

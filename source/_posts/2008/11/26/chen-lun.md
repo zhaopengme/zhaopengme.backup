@@ -1,7 +1,6 @@
 title: 沉沦
 id: 593
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 13:44:00
 tags:
 ---

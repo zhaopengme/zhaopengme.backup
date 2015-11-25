@@ -1,7 +1,6 @@
 title: 既不成功，何不失败？
 id: 511
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-27 16:46:00
 tags:
 ---

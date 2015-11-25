@@ -1,7 +1,6 @@
 title: 我的女郎
 id: 581
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:08:00
 tags:
 ---

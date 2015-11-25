@@ -1,7 +1,7 @@
 title: 共享bootstrap4diandian主题
 id: 57
 categories:
-  - web
+
 date: 2012-10-14 22:17:36
 tags:
 ---

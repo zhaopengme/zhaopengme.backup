@@ -1,7 +1,6 @@
 title: 使用vsftpd搭建
 id: 240
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-08-06 18:04:01
 tags:
 ---

@@ -1,7 +1,6 @@
 title: Oracle 的dblink分析使用
 id: 165
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-09-22 00:58:13
 tags:
 ---

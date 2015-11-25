@@ -1,7 +1,7 @@
 title: metro4diandian v1.1
 id: 42
 categories:
-  - web
+
 date: 2012-10-30 12:48:31
 tags:
 ---

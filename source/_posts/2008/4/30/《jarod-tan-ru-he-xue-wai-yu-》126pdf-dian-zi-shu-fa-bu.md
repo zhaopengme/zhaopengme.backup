@@ -1,7 +1,5 @@
 title: 《Jarod谈如何学外语》1~26 pdf电子书发布
-id: 689
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-30 10:05:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 世界之窗3.0.1.3偷偷更新了
 id: 481
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-24 14:28:00
 tags:
 ---

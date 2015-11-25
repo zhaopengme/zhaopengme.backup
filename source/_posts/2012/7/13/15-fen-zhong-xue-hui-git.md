@@ -1,7 +1,6 @@
 title: 15分钟学会git
 id: 89
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-07-13 12:48:15
 tags:
 ---

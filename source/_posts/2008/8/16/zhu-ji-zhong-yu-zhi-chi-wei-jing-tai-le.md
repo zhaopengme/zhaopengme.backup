@@ -1,7 +1,5 @@
 title: 主机终于支持伪静态了
-id: 653
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-16 13:23:00
 tags:
 ---

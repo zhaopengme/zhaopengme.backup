@@ -1,7 +1,6 @@
 title: 13个代码注释的小技巧
 id: 130
-categories:
-  - java
+categories: java
 date: 2011-12-31 11:06:30
 tags:
 ---

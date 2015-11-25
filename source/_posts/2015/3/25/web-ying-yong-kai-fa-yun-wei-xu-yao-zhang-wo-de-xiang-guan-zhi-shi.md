@@ -2,9 +2,7 @@ title: web应用开发运维需要掌握的相关知识
 tags:
   - linux
   - 运维
-id: 968
-categories:
-  - 资料文档
+categories: 资料文档
 date: 2015-03-25 08:54:00
 ---
 

@@ -1,7 +1,6 @@
 title: 清凉一下——清新苹果
 id: 395
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-04 15:34:25
 tags:
 ---

@@ -1,7 +1,6 @@
 title: '转载：悦读时间:什么叫工作？'
 id: 318
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-12-12 10:42:39
 tags:
 ---

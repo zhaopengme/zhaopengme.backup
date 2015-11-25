@@ -1,7 +1,6 @@
 title: 没有竞争，我该怎么活下去
 id: 638
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-09-07 10:36:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 有效的睡眠
 id: 150
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-11-18 00:09:46
 tags:
 ---

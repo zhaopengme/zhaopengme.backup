@@ -1,7 +1,6 @@
 title: 打开csv避免成为科学计数法
 id: 297
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-01-25 21:26:23
 tags:
 ---

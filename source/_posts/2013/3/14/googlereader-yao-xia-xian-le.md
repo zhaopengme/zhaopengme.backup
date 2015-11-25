@@ -1,7 +1,6 @@
 title: google reader 要下线了？
 id: 884
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-03-14 09:18:50
 tags:
 ---

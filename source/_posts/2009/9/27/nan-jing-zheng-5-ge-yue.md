@@ -1,7 +1,6 @@
 title: 南京整5个月
 id: 350
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-27 23:59:46
 tags:
 ---

@@ -1,7 +1,7 @@
 title: 资料：图书杂志网站大全
 id: 309
 categories:
-  - web
+
 date: 2009-12-24 15:36:25
 tags:
 ---

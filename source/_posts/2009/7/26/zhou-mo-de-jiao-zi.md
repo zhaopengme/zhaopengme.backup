@@ -1,7 +1,6 @@
 title: 周末的饺子
 id: 375
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-26 13:57:54
 tags:
 ---

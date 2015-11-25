@@ -1,7 +1,6 @@
 title: 《最后期限》日记
 id: 332
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-11-17 12:34:55
 tags:
 ---

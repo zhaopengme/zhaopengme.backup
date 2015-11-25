@@ -1,7 +1,6 @@
 title: 西安大雁塔广场夏天
 id: 560
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-01 10:14:00
 tags:
 ---

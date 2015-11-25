@@ -1,7 +1,6 @@
 title: 记着吃不喜欢吃的，却忘记了喜欢吃的
 id: 391
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-08 09:10:43
 tags:
 ---

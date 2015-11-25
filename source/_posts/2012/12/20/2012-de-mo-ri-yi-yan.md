@@ -1,7 +1,6 @@
 title: 2012的末日遗言
 id: 26
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-12-20 12:45:00
 tags:
 ---

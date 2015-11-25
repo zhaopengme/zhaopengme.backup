@@ -1,7 +1,6 @@
 title: '[视频]超近距离拍摄接触并山崩塌'
 id: 107
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-15 12:32:26
 tags:
 ---

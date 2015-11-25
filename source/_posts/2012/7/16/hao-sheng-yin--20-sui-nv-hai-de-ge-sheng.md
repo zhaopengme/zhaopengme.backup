@@ -1,7 +1,6 @@
 title: 好声音-20岁女孩的歌声
 id: 88
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-07-16 02:12:49
 tags:
 ---

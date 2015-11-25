@@ -1,7 +1,6 @@
 title: 继续前进
 id: 342
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-17 02:14:40
 tags:
 ---

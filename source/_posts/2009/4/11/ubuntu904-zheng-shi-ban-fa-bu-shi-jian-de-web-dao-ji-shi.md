@@ -1,7 +1,7 @@
 title: Ubuntu 9.04 正式版发布时间的WEB倒计时
 id: 469
 categories:
-  - web
+
 date: 2009-04-11 03:50:00
 tags:
 ---

@@ -1,7 +1,5 @@
 title: 过四级了
-id: 645
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-29 17:11:00
 tags:
 ---

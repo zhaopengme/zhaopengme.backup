@@ -1,7 +1,6 @@
 title: 被狗咬过才知道
 id: 397
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-02 00:47:21
 tags:
 ---

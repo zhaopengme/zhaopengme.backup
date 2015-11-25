@@ -1,7 +1,6 @@
 title: wine的deb的下载地址
 id: 388
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-11 17:23:39
 tags:
 ---

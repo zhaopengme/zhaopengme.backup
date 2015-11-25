@@ -1,7 +1,6 @@
 title: 昨天是个蛮高兴的一天
 id: 353
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-18 08:01:16
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 'jnote开源笔记软件 '
 id: 856
-categories:
-  - 个人作品
+categories: 个人作品
 date: 2013-12-14 00:46:21
 tags:
 ---

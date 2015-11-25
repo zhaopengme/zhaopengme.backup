@@ -1,7 +1,7 @@
 title: 多个WEB页面设计经验-电影海报风格页面设计
 id: 893
 categories:
-  - web
+
 date: 2013-01-26 15:00:02
 tags:
 ---

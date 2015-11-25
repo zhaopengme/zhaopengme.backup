@@ -1,7 +1,6 @@
 title: 怠倦
 id: 365
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-08-16 23:51:52
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 清凉一夏，换个皮肤
 id: 181
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-06-06 02:07:28
 tags:
 ---

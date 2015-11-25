@@ -1,7 +1,7 @@
 title: bootstrap4diandian v1.2.2
 id: 46
 categories:
-  - web
+
 date: 2012-10-21 19:43:17
 tags:
 ---

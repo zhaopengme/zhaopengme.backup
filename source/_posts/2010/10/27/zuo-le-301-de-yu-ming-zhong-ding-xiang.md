@@ -1,7 +1,6 @@
 title: 做了301的域名重定向
 id: 221
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2010-10-27 12:29:46
 tags:
 ---

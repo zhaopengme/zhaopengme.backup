@@ -1,7 +1,6 @@
 title: nexus7入手
 id: 25
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-12-20 13:21:04
 tags:
 ---

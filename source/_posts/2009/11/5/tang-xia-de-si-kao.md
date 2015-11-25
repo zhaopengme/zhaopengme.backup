@@ -1,7 +1,6 @@
 title: 躺下的思考
 id: 337
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-11-05 12:33:21
 tags:
 ---

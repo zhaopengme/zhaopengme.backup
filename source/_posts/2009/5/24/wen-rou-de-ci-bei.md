@@ -1,7 +1,6 @@
 title: 温柔的慈悲
 id: 419
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-24 00:40:06
 tags:
 ---

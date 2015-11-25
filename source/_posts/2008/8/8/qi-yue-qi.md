@@ -1,7 +1,5 @@
 title: 七月七
-id: 657
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-08-08 14:52:00
 tags:
 ---

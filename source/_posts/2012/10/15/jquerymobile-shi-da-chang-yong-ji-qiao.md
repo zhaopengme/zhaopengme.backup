@@ -1,7 +1,6 @@
 title: jQuery Mobile十大常用技巧
 id: 56
-categories:
-  - java
+categories: java
 date: 2012-10-15 12:40:08
 tags:
 ---

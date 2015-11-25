@@ -1,7 +1,6 @@
 title: 成功绑定点点网域名
 id: 175
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-07-22 23:51:57
 tags:
 ---

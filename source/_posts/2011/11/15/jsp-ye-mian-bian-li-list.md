@@ -1,7 +1,6 @@
 title: jsp页面遍历List
 id: 157
-categories:
-  - java
+categories: java
 date: 2011-11-15 00:48:47
 tags:
 ---

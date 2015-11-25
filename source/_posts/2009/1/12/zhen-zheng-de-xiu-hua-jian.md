@@ -1,7 +1,6 @@
 title: 真正的绣花剪
 id: 519
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-12 15:25:00
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 自嘲
 id: 360
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-09-06 20:15:31
 tags:
 ---

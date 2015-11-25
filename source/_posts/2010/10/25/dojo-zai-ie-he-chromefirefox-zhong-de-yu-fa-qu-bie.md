@@ -1,7 +1,7 @@
 title: dojo在ie和chrome、firefox中的语法区别
 id: 223
 categories:
-  - web
+
 date: 2010-10-25 13:35:24
 tags:
 ---

@@ -4,9 +4,7 @@ tags:
   - 架构
   - 设计
 id: 1032
-categories:
-  - 网文收藏
-  - 资料文档
+categories: 资料文档
 date: 2014-10-28 06:19:56
 ---
 

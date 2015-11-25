@@ -1,7 +1,6 @@
 title: 简体中文专业版project2013
 id: 40
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-31 12:58:00
 tags:
 ---

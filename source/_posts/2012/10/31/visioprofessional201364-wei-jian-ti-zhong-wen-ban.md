@@ -1,7 +1,6 @@
 title: Visio Professional 2013 64位简体中文版
 id: 41
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-10-31 00:13:05
 tags:
 ---

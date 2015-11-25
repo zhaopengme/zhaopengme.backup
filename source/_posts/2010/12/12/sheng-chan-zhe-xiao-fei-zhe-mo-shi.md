@@ -1,7 +1,6 @@
 title: 生产者消费者模式
 id: 209
-categories:
-  - java
+categories: java
 date: 2010-12-12 17:38:52
 tags:
 ---

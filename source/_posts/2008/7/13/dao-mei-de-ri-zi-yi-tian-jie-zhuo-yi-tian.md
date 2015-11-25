@@ -1,7 +1,5 @@
 title: 倒霉的日子一天接着一天
-id: 673
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-07-13 01:49:00
 tags:
 ---

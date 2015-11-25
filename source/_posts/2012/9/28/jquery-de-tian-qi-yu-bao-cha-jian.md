@@ -1,7 +1,7 @@
 title: jQuery的天气预报插件
 id: 71
 categories:
-  - web
+
 date: 2012-09-28 17:20:04
 tags:
 ---

@@ -1,7 +1,6 @@
 title: 乱侃
 id: 377
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-25 18:30:25
 tags:
 ---

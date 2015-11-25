@@ -1,7 +1,6 @@
 title: 更改mysql默认引擎为Innodb
 id: 90
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-07-12 12:53:50
 tags:
 ---

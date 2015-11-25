@@ -1,7 +1,6 @@
 title: 退回使用TM2007
 id: 338
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-28 23:24:21
 tags:
 ---

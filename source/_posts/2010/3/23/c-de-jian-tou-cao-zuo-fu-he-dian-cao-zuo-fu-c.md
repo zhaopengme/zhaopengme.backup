@@ -1,7 +1,6 @@
 title: 'C++的箭头操作符和点操作符[c++]'
 id: 269
-categories:
-  - java
+categories: java
 date: 2010-03-23 01:04:29
 tags:
 ---

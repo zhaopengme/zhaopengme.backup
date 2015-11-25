@@ -1,7 +1,6 @@
 title: 搜狗音乐盒1.2单文件
 id: 487
-categories:
-  - 休闲娱乐
+categories: 休闲娱乐
 date: 2009-03-16 08:17:00
 tags:
 ---

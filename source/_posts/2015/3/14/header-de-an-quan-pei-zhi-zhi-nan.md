@@ -3,9 +3,7 @@ tags:
   - 安全
   - 技术
   - 技术分享
-id: 937
-categories:
-  - 网文收藏
+categories: 资料文档
 date: 2015-03-14 08:48:26
 ---
 

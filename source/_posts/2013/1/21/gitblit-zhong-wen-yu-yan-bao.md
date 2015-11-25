@@ -1,7 +1,6 @@
 title: gitblit 中文语言包
 id: 15
-categories:
-  - java
+categories: java
 date: 2013-01-21 12:40:21
 tags:
 ---

@@ -3,8 +3,7 @@ tags:
   - 架构
   - 设计
 id: 946
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2015-03-17 08:51:11
 ---
 

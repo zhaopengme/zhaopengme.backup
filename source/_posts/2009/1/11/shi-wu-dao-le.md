@@ -1,7 +1,6 @@
 title: 十五到了
 id: 522
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-11 14:42:00
 tags:
 ---

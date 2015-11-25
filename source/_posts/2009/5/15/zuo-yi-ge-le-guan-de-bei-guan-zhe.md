@@ -1,7 +1,6 @@
 title: 做一个乐观的悲观者
 id: 436
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-05-15 04:20:25
 tags:
 ---

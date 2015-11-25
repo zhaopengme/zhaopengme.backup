@@ -1,7 +1,6 @@
 title: 蓝色忧伤
 id: 586
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:03:00
 tags:
 ---

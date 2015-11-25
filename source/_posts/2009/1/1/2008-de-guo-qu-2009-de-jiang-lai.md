@@ -1,7 +1,6 @@
 title: 2008的过去，2009的将来
 id: 536
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-01 15:26:00
 tags:
 ---

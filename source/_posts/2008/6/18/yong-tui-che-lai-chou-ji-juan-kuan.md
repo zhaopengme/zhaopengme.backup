@@ -1,7 +1,5 @@
 title: 用推车来筹集捐款
-id: 676
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-06-18 04:58:00
 tags:
 ---

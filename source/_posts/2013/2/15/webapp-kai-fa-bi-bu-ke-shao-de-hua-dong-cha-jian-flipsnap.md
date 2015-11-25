@@ -1,7 +1,7 @@
 title: web app 开发必不可少的滑动插件 Flipsnap
 id: 886
 categories:
-  - web
+
 date: 2013-02-15 16:45:48
 tags:
 ---

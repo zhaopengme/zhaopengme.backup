@@ -1,7 +1,7 @@
 title: 神棍之日拜棍神
 id: 160
 categories:
-  - web
+
 date: 2011-11-11 02:51:16
 tags:
 ---

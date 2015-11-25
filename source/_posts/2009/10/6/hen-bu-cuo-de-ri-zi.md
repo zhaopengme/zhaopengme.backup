@@ -1,7 +1,6 @@
 title: 很不错的日子
 id: 347
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-06 04:50:07
 tags:
 ---

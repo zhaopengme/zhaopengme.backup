@@ -1,7 +1,6 @@
 title: 走过一个人的路
 id: 518
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-01-15 14:00:00
 tags:
 ---

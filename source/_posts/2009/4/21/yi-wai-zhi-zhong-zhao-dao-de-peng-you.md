@@ -1,7 +1,6 @@
 title: 意外之中找到的朋友
 id: 464
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-04-21 07:08:00
 tags:
 ---

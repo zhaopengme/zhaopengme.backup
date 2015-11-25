@@ -1,7 +1,6 @@
 title: 莫名其妙的收到了淘宝网违规发布商品的处理
 id: 891
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2013-01-28 13:02:31
 tags:
 ---

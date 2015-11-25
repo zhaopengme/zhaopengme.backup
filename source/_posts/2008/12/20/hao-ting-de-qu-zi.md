@@ -1,7 +1,6 @@
 title: 好听的曲子
 id: 544
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-12-20 14:36:00
 tags:
 ---

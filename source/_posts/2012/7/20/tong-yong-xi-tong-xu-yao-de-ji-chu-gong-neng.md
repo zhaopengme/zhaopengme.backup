@@ -1,7 +1,6 @@
 title: 通用系统需要的基础功能
 id: 87
-categories:
-  - java
+categories: java
 date: 2012-07-20 13:00:30
 tags:
 ---

@@ -1,7 +1,6 @@
 title: J2EE系统的概念及如何开发
 id: 140
-categories:
-  - java
+categories: java
 date: 2011-12-06 13:01:34
 tags:
 ---

@@ -1,7 +1,6 @@
 title: bootstrap4diandian v1.3
 id: 45
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2012-10-25 19:24:31
 tags:
 ---

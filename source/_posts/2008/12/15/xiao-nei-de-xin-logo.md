@@ -1,7 +1,7 @@
 title: 校内的新logo
 id: 546
 categories:
-  - web
+
 date: 2008-12-15 09:16:00
 tags:
 ---

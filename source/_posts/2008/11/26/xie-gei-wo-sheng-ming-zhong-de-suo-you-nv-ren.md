@@ -1,7 +1,6 @@
 title: 写给我生命中的所有女人
 id: 572
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-11-26 14:19:00
 tags:
 ---

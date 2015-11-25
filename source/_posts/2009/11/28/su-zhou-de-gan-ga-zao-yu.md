@@ -1,7 +1,6 @@
 title: 苏州的尴尬遭遇
 id: 326
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-11-28 01:38:39
 tags:
 ---

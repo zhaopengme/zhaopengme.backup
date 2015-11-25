@@ -1,7 +1,7 @@
 title: 深邃而简约的头像
 id: 611
 categories:
-  - web
+
 date: 2008-10-09 06:21:00
 tags:
 ---

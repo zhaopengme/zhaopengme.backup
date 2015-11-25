@@ -1,7 +1,6 @@
 title: axis开发webservices
 id: 418
-categories:
-  - java
+categories: java
 date: 2009-05-25 23:48:43
 tags:
 ---

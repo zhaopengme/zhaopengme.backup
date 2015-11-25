@@ -1,7 +1,5 @@
 title: 让你乐--天天一笑话
-id: 709
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-02-16 18:05:00
 tags:
 ---

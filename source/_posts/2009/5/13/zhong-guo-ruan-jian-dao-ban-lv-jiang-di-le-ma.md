@@ -1,7 +1,6 @@
 title: 中国软件盗版率降低了吗？
 id: 440
-categories:
-  - 软件工具
+categories: 软件工具
 date: 2009-05-13 02:25:00
 tags:
 ---

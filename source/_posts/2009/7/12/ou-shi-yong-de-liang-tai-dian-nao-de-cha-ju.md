@@ -1,7 +1,6 @@
 title: 偶使用的两台电脑的差距
 id: 384
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-07-12 16:07:21
 tags:
 ---

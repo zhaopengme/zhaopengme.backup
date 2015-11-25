@@ -1,7 +1,6 @@
 title: MyEclipse 10 下载-补充破解补丁
 id: 163
-categories:
-  - java
+categories: java
 date: 2011-11-04 01:07:08
 tags:
 ---

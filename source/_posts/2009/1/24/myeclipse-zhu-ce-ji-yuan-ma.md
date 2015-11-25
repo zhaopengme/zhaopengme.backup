@@ -1,7 +1,6 @@
 title: myeclipse注册机源码
 id: 514
-categories:
-  - java
+categories: java
 date: 2009-01-24 04:33:00
 tags:
 ---

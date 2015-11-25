@@ -1,7 +1,7 @@
 title: 在myeclipse中实现struts2的登录例子
 id: 459
 categories:
-  - web
+
 date: 2009-04-29 01:44:00
 tags:
 ---

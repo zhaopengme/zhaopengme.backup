@@ -1,7 +1,6 @@
 title: 不舒服啊
 id: 488
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-03-13 22:48:00
 tags:
 ---

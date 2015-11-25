@@ -1,7 +1,7 @@
 title: IBM WPS V6.2及其新特性
 id: 355
 categories:
-  - web
+
 date: 2009-09-17 00:39:53
 tags:
 ---

@@ -1,7 +1,6 @@
 title: '学会忍着[学会系列]'
 id: 345
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2009-10-06 05:04:25
 tags:
 ---

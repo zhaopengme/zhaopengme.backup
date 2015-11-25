@@ -1,7 +1,6 @@
 title: 'MySQL数据库出错:Table is marked as crashed and should be repaired'
 id: 86
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-07-25 10:45:23
 tags:
 ---

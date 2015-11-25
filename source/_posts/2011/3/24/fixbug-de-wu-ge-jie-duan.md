@@ -1,7 +1,6 @@
 title: Fix Bug的五个阶段
 id: 192
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2011-03-24 08:58:01
 tags:
 ---

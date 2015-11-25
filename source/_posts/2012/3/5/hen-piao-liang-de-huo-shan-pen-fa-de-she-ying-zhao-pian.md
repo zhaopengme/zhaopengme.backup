@@ -1,7 +1,6 @@
 title: 很漂亮的火山喷发的摄影照片
 id: 113
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2012-03-05 09:55:00
 tags:
 ---

@@ -1,7 +1,5 @@
 title: 收到朋友寄来的煎饼了
-id: 698
-categories:
-  - 闲言碎语
+categories: 闲言碎语
 date: 2008-04-17 01:36:00
 tags:
 ---
