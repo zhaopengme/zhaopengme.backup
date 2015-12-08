@@ -13,6 +13,9 @@
   <div id="posts" class="posts-expand">
     {{ post_template.render(page) }}
 
+		{% include '_partials/donate.swig' %}
+
+
     <div class="post-spread">
       {% if theme.jiathis %}
         {% include '_partials/share/jiathis.swig' %}

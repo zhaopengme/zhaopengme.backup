@@ -129,3 +129,11 @@ images: images
 
 # Theme version
 version: 0.4.5.2
+
+
+## 文章末尾是否显示打赏按钮
+donate: 
+  enable: true
+  text: Enjoy it ? Donate me !  欣赏此文？求鼓励，求支持！
+  alipay: http://static.ixirong.com/pic/donate/alipay1.webp
+  wechat: http://static.ixirong.com/pic/donate/wechat.png
