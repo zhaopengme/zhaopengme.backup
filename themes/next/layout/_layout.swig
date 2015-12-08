@@ -54,7 +54,7 @@
     <div class="back-to-top"></div>
   </div>
 
-  <script type="text/javascript" src="{{ url_for(theme.vendors) }}/jquery/index.js?v=2.1.3"></script>
+  <script type="text/javascript" src="http://7xon03.com1.z0.glb.clouddn.com/vendors/jquery/index.js?v=2.1.3"></script>
 
   {# This block is used to set options before any other scripts run #}
   {% block script_extra_before %}{% endblock %}
@@ -66,8 +66,8 @@
   {% include '_scripts/helpers.swig' %}
   {% include '_scripts/motion.swig' %}
 
-  <script type="text/javascript" src="{{ url_for(theme.js) }}/nav-toggle.js?v={{ theme.version }}"></script>
-  <script type="text/javascript" src="{{ url_for(theme.vendors) }}/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  <script type="text/javascript" src="http://7xon03.com1.z0.glb.clouddn.com/js/nav-toggle.js?v={{ theme.version }}"></script>
+  <script type="text/javascript" src="http://7xon03.com1.z0.glb.clouddn.com/vendors/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
 
   {% block script_extra %}{% endblock %}
 
@@ -90,11 +90,11 @@
   {% include '_scripts/baidushare.swig' %}
 
   {# LazyLoad #}
-  <script type="text/javascript" src="{{ url_for(theme.js) }}/lazyload.js"></script>
+  <script type="text/javascript" src="http://7xon03.com1.z0.glb.clouddn.com/js/lazyload.js"></script>
   <script type="text/javascript">
     $(function () {
       $("#posts").find('img').lazyload({
-        placeholder: "{{ url_for(theme.images) }}/loading.gif",
+        placeholder: "http://7xon03.com1.z0.glb.clouddn.com/images/loading.gif",
         effect: "fadeIn"
       });
     });

@@ -1,1 +1,1 @@
-<script type="text/javascript" src="{{ url_for(theme.js) }}/helpers.js?v={{ theme.version }}"></script>
+<script type="text/javascript" src="http://7xon03.com1.z0.glb.clouddn.com/js/helpers.js?v={{ theme.version }}"></script>

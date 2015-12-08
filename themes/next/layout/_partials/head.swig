@@ -23,7 +23,7 @@
 {% endif %}
 
 {% if theme.fancybox %}
-  <link rel="stylesheet" type="text/css" href="{{ url_for(theme.vendors) }}/fancybox/source/jquery.fancybox.css?v=2.1.5"/>
+  <link rel="stylesheet" type="text/css" href="http://7xon03.com1.z0.glb.clouddn.com/vendors/fancybox/source/jquery.fancybox.css?v=2.1.5"/>
 {% endif %}
 
 {% if theme.use_font_lato %}
@@ -34,9 +34,9 @@
   {% endif %}
 {% endif %}
 
-<link rel="stylesheet" type="text/css" href="{{ url_for(theme.vendors) }}/font-awesome/css/font-awesome.min.css?v=4.4.0" />
+<link href="//cdn.bootcss.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 
-<link rel="stylesheet" type="text/css" href="{{ url_for(theme.css) }}/main.css?v={{ theme.version }}"/>
+<link rel="stylesheet" type="text/css" href="http://7xon03.com1.z0.glb.clouddn.com/css/main.css?v={{ theme.version }}"/>
 
 {% if config.description %}
     <meta name="description" content="{{ config.description }}" />
