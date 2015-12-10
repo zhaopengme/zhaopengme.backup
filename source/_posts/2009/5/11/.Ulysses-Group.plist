@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>jremind0111-geng-xin.md</string>
+		</array>
+		<array>
+			<string>jremindv0130-tian-jia-tou-ming.md</string>
+		</array>
+		<array>
+			<string>jremindv0140-geng-xin.md</string>
+		</array>
+		<array>
+			<string>jremindv0141-xiu-zheng-le-yi-ge-xiao-bug.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

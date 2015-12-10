@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>mythine-zhe-shi-yi-ge-cuo-wu.md</string>
+		</array>
+		<array>
+			<string>yu-yan-jia-de-ku-nao.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

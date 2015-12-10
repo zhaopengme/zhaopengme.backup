@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2008-nian-8-yue-1-ri-dao-le--liu-yi-xia.md</string>
+		</array>
+		<array>
+			<string>tian-qi-bu-tai-hao-a--kan-ri-quan-shi-you-dian-wen-ti.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

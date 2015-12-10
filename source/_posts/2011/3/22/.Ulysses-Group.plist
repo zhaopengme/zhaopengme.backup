@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>axis1-yu-axis2-de-jiao-liang.md</string>
+		</array>
+		<array>
+			<string>hua-wei-nei-hao-wen-ti-qian-xi--shi-da-wen-hua-cheng-gong-si-ban-jiao-shi.md</string>
+		</array>
+		<array>
+			<string>php-kuai-su-kuang-jia-de-xuan-ze.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

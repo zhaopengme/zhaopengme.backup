@@ -31,7 +31,7 @@ tags:
 
 在开始设计的时候，依照我原来的想法，是采用内嵌一个 web 系统，通过 node-webkit 来打开内嵌的 web 系统来实现的，所有我开始学习 express 的文档。看了 [http://www.expressjs.com.cn/](http://www.expressjs.com.cn/ "http://www.expressjs.com.cn/") 文档后，我尝试着使用纯 nodejs 的方式来实现我的需要，读写文件，图片保存，图片上传，发现也是可以的，其实开头想想也是可以的，只是自己一个惯性思维导致的。
 
-## 技术干活列表
+## 技术干货列表
 
 1. nodejs
 2. node-webkit
