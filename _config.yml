@@ -27,7 +27,12 @@ social:
 links_title: Links
 # links
 links:
-  MacTalk: http://macshuo.com/
+  记忆碎片: http://www.cobmw.com/
+  墙外的梯子: http://www.itoldme.net/
+  versun: http://www.versun.org/
+  心岛博客: http://www.liangxin.name
+  付琦的博客: http://www.imf7.com/
+  it技术博客: http://www.itblog.me/
 
 
 # URL
@@ -99,11 +104,11 @@ deploy:
   repo: https://github.com/zhaopengme/zhaopengme.github.io.git
   branch: master
   message: 'message'
-  
+
 sitemap:
     path: sitemap.xml
-    
-    
-    
+
+
+
 # Swiftype Search Key
-swiftype_key: KKy7kMLzqcedsP4uzFVg    
+swiftype_key: KKy7kMLzqcedsP4uzFVg
